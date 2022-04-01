@@ -48,7 +48,7 @@ service:
   enable : true
   service_item:
     # service item loop
-    - title : "A nossa trajetória."
+    - title : "It is the most advanced digital marketing and it company."
       images:
       - "images/service-1.png"
       - "images/service-2.png"
@@ -60,7 +60,7 @@ service:
         link : "projects"
 
     # service item loop
-    - title : "O que temos feito?"
+    - title : "It is a privately owned Information and cyber security company"
       images:
       - "images/service-1.png"
       content : "Investigamos alvos terapêuticos para tratamento de HIV, DENV, ZIKV, Y. pestis, T. cruzi, P. falciparum e câncer, entre outros. Desenvolvemos métodos automatizados para prospecção de alvos biológicos e seus potenciais moduladores, o que envolve o emprego de abordagens em larga-escala, tais como: modelagem de proteomas completos, análise de redes metabólicas, triagem virtual e análise de dados assistida por inteligência artificial."

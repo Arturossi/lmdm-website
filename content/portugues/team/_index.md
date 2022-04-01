@@ -5,27 +5,6 @@ subtitle: "Sentados sobre os ombros de gigantes"
 description: "This is meta description"
 draft: false
 
-##################### Feature ##########################
-#feature:
-#  enable : true
-#  title : "Nosso time"
-#  feature_item:
-#    # feature item loop
-#    - name : "Professores"
-#      icon : "fas fa-code"
-#      link : "pt/team/professors"
-#
-#    # feature item loop
-#    - name : "Pós-Docs"
-#      icon : "fas fa-object-group"
-#
-#    # feature item loop
-#    - name : "Alunos"
-#      icon : "fas fa-user-clock"
-#
-#    # feature item loop
-#    - name : "Colaboradores"
-#      icon : "fas fa-heart"
 allroles:
   all_enable : true
   title: "Nosso time"
@@ -41,7 +20,7 @@ allroles:
         - person_title: "Professor Dr."
           person_name: "Pedro Geraldo Pascutti"
           person_enable: true
-          person_photo: "images/no-person.svg"
+          person_photo: "images/team/Pedro_Pascutti.jpg"
           person_description:
             # Person description item loop
             - description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pellentesque a lectus id congue. In eu dolor nunc. Mauris vitae eros quis quam iaculis vestibulum nec sit amet justo. Proin elementum accumsan leo. Sed sit amet elit vitae neque aliquam viverra sit amet nec magna. Nunc rhoncus volutpat magna sed tempus. Maecenas vitae urna iaculis, hendrerit felis a, feugiat orci. Sed in lacus eget arcu mollis condimentum in vehicula lectus. Quisque ultricies libero sit amet sodales pretium. Curabitur eu luctus lorem. Vestibulum non eros molestie, bibendum tortor ut, pharetra augue. Donec non diam a nunc venenatis gravida vel non erat. Nullam feugiat, quam at hendrerit sollicitudin, est urna efficitur justo, eu mattis quam nulla ut diam. Praesent vel massa at odio luctus ornare."
@@ -65,7 +44,7 @@ allroles:
     ############# Pós Docs #############
 
     # Role item loop
-    - role_name: "Pós-Doutorandos"
+    - role_name: "Pós-Docs"
       role_enable: true
       person:
         # Person item loop
@@ -90,7 +69,7 @@ allroles:
     ############# Doutorandos #############
 
     # Role item loop
-    - role_name: "Doutorandos"
+    - role_name: "Doutorado"
       role_enable: true
       person:
         # Person item loop
@@ -133,7 +112,7 @@ allroles:
     ############# Mestrandos #############
 
     # Role item loop
-    - role_name: "Mestrandos"
+    - role_name: "Mestrado"
       role_enable: true
       person:
         # Person item loop
@@ -143,7 +122,7 @@ allroles:
           person_photo: "images/team/Camila_Chaves.jpg"
           person_description:
             # Person description item loop
-            - description: "Camychan"
+            - description: "Possui graduação em Ciências Biológicas: Biofísica, com ênfase em biofísica molecular e bioinformática (2018-2021), pela Universidade Federal do Rio de Janeiro (UFRJ), com experiência em pesquisa nas áreas de bioinformática, biologia computacional estrutural, bioenergética e metabolismo. Atualmente é aluna de mestrado do Programa de Pós-Graduação em Ciências Biológicas: Biofísica da UFRJ, utilizando a modelagem de redes metabólicas como ferramenta para identificação de novos alvos de intervenção farmacológica contra doenças infecciosas. Possui interesse em modelagem matemática e computacional de sistemas biológicos, planejamento de fármacos assistido por computador e ciência aberta."
               description_enable: true
         # Person item loop
         - person_title: "BSc."
