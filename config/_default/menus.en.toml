@@ -1,0 +1,78 @@
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Blog"
+url = "blog"
+weight = 2
+
+[[main]]
+name = "Team"
+url = "team"
+weight = 3
+
+[[main]]
+name = "Projects"
+url = "projects"
+weight = 4
+
+[[main]]
+name = "Publications"
+url = "publications"
+weight = 5
+
+[[main]]
+name = "Software"
+url = "software"
+weight = 6
+
+[[main]]
+name = "Contact"
+url = "contact"
+weight = 7
+
+# footer menu left
+[[footer_left]]
+name = "About Us"
+url = "#"
+
+[[footer_left]]
+name = "Contact"
+url = "contact"
+
+# footer menu middle
+[[footer_middle]]
+name = "CADD"
+url = "cadd"
+
+[[footer_middle]]
+name = "QM/MM"
+url = "qmmm"
+
+[[footer_middle]]
+name = "Software"
+url = "software"
+
+# footer menu right
+[[footer_right]]
+name = "Professors"
+url = "professors"
+weight = 1
+
+[[footer_right]]
+name = "Post-Docs"
+url = "postdocs"
+weight = 2
+
+[[footer_right]]
+name = "Students"
+url = "students"
+weight = 3
+
+[[footer_right]]
+name = "Collaborators"
+url = "collaborators"
+weight = 4

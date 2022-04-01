@@ -1,0 +1,29 @@
+############################# English ############################
+[en]
+languageName = "En"
+title = "Laboratory for Molecular Dynamics and Modelling"
+contentDir = "content/english" # content/english
+weight = 2
+########### footer content ##########
+footer_menu_left = "Lab"
+footer_menu_middle = "Projects"
+footer_menu_right = "Team"
+footer_content = "This lab is part of the [Carlos Chagas Filho Biophysics Institute](https://biof.ufrj.br/) at the [Federal University of Rio de Janeiro](https://ufrj.br/en/)."
+# copyright
+copyright = "Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)"
+
+
+
+############################ Portugues ############################
+[pt]
+languageName = "Pt"
+title = "Laboratório de Modelagem e Dinâmica Molecular"
+contentDir = "content/portugues" # content/portugues
+weight = 1
+########### footer content ##########
+footer_menu_left = "Lab"
+footer_menu_middle = "Projetos"
+footer_menu_right = "Equipe"
+footer_content = "Este leboratório é parte integrante do [Instituto de Biofísica Carlos Chagas Filho](https://biof.ufrj.br/), da [Universidade Federal do Rio de Janeiro](https://ufrj.br/)"
+# copyright
+copyright = "Design por [Themefisher](https://themefisher.com/) Desenvolvido por [Gethugothemes](https://gethugothemes.com/)"

@@ -1,0 +1,4 @@
+baseURL = "http://lmdm.biof.ufrj.br/"
+languageCode = "pt-br"
+title = "LMDM"
+theme = "bigspring"

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frequently Asked Questions on Laboratório de Modelagem e Dinâmica Molecular</title>
+    <link>http://examplesite.org/pt/faq/</link>
+    <description>Recent content in Frequently Asked Questions on Laboratório de Modelagem e Dinâmica Molecular</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>Design por [Themefisher](https://themefisher.com/) Desenvolvido por [Gethugothemes](https://gethugothemes.com/)</copyright>
+    
+	<atom:link href="http://examplesite.org/pt/faq/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
