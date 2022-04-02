@@ -3,3 +3,6 @@ languageCode = "pt-br"
 title = "LMDM"
 theme = "bigspring"
 DefaultContentLanguage = "pt"
+
+[params]
+favicon = "/images/favicon.ico" # Path to favicon file
