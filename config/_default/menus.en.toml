@@ -20,8 +20,8 @@ url = "projects"
 weight = 4
 
 [[main]]
-name = "Publications"
-url = "publications"
+name = "Research"
+url = "research"
 weight = 5
 
 [[main]]
@@ -30,9 +30,14 @@ url = "software"
 weight = 6
 
 [[main]]
-name = "Contact"
-url = "contact"
+name = "Learning"
+url = "learn"
 weight = 7
+
+[[main]]
+name = "Contact us"
+url = "contact"
+weight = 8
 
 # footer menu left
 [[footer_left]]
