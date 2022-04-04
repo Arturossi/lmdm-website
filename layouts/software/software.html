@@ -1,0 +1,37 @@
+{{ define "main" }}
+
+<!-- software -->
+{{ with .Params.software }}
+    {{ if .enable }}
+        <section class="section bg-light">
+            <div class="row justify-content-center" style="margin-bottom: 25px;">
+                <h1>{{ .title | markdownify }}</h1>
+            </div>
+            <div class="container">
+                <div class="row justify-content-center" style="margin-bottom: 25px;">
+                    {{ range .software_element }}
+                        {{ if .software_enable }}
+                            <div class="col-3" style="margin-right: 10px; margin-left: 10px; margin-bottom: 15px;">
+                                <div class="card" style="width: 18rem; height: 550px; display: inline-block;">
+                                    <div style="border-bottom: 1px solid #ABABAB;">
+                                        <img class="card-img-top" style="width: 286px; height: 250px;" src="{{ .software_image | relURL }}" alt="{{ .software_image_alt | markdownify }}">
+                                    </div>
+                                    <div class="card-body">
+                                    <h5 class="card-title">{{ .software_title | markdownify }}</h5>
+                                    {{ range .software_description }}
+                                        <p class="card-text" style="text-align: justify; text-justify: inter-word; overflow-y: auto; height: 165px;">{{ .description | markdownify }}</p>
+                                    {{ end }}
+                                    <a href="{{ .software_link | relURL }}" class="btn btn-primary" style="position: absolute; left: 20px; bottom: 10px;">{{ .label | markdownify }}</a>
+                                    </div>
+                                </div>
+                            </div>
+                        {{ end }}
+                    {{ end }}
+                </div>
+            </div>
+        </section>
+    {{ end }}
+{{ end }}
+<!-- /software -->
+
+{{ end }}
