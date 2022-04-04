@@ -1,5 +1,4 @@
 ---
-
 research_box:
   title : "Pesquisa no LMDM"
   enable : true
