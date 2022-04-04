@@ -64,20 +64,30 @@ url = "software"
 # footer menu right
 [[footer_right]]
 name = "Professors"
-url = "professors"
+url = "team/#profs"
 weight = 1
 
 [[footer_right]]
 name = "Post-Docs"
-url = "postdocs"
+url = "team/#postphd"
 weight = 2
 
 [[footer_right]]
-name = "Students"
-url = "students"
+name = "PhD students"
+url = "team/#phd"
 weight = 3
 
 [[footer_right]]
-name = "Collaborators"
-url = "collaborators"
+name = "MSc students"
+url = "team/#msc"
 weight = 4
+
+[[footer_right]]
+name = "Scientific Initiation"
+url = "team/#ic"
+weight = 5
+
+[[footer_right]]
+name = "Collaborators"
+url = "team/#colab"
+weight = 6

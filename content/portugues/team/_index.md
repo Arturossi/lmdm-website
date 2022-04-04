@@ -7,15 +7,16 @@ draft: false
 
 allroles:
   all_enable : true
-  title: "Nosso time"
+  title: ""
   role:
     # Role item loop
+
+    ############# Professores #############
+
     - role_name: "Professores"
       role_enable: true
+      role_id: "profs"
       person:
-
-      ############# Professores #############
-
         # Person item loop
         - person_title: "Professor Dr."
           person_name: "Pedro Geraldo Pascutti"
@@ -46,6 +47,7 @@ allroles:
     # Role item loop
     - role_name: "Pós-Docs"
       role_enable: true
+      role_id: "postphd"
       person:
         # Person item loop
         - person_title: "Dra."
@@ -71,6 +73,7 @@ allroles:
     # Role item loop
     - role_name: "Doutorado"
       role_enable: true
+      role_id: "phd"
       person:
         # Person item loop
         - person_title: "MSc."
@@ -114,6 +117,7 @@ allroles:
     # Role item loop
     - role_name: "Mestrado"
       role_enable: true
+      role_id: "msc"
       person:
         # Person item loop
         - person_title: "BSc."
@@ -175,6 +179,7 @@ allroles:
     # Role item loop
     - role_name: "Iniciação científica"
       role_enable: true
+      role_id: "ic"
       person:
         # Person item loop
         - person_title: ""
@@ -240,5 +245,20 @@ allroles:
             - description: ""
               description_enable: true
         
+    ############# Colaboradores #############
 
+    # Role item loop
+    - role_name: "Colaboradores"
+      role_enable: true
+      role_id: "colab"
+      person:
+        # Person item loop
+        - person_title: "Dr."
+          person_name: "Paulo Mascarello Bisch"
+          person_enable: true
+          person_photo: "images/no-person.svg"
+          person_description:
+            # Person description item loop
+            - description: "Possui Bacharelado em Fisica pela Universidade Federal do Rio Grande do Sul (1971), Mestrado em Física pelo Centro Brasileiro de Pesquisas Físicas (1974) e Doutorado em Ciências (Física) pela Universite Libre de Bruxelles, Bélgica (1980). Atualmente é Professor Titular do Instituto de Biofísica Carlos Chagas Filho da Universidade Federal do Rio de Janeiro. Tem experiência nas áreas de Física, Físico-Química e Biofísica, com ênfase em Biofísica Molecular, Celular e de Sistema, atuando principalmente nos seguintes temas: sistemas biológicos, biologia estrutural, microscopia de força atômica, modelagem molecular, bioinformática, genômica e proteômica."
+              description_enable: true
 ---

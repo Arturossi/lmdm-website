@@ -42,7 +42,7 @@ weight = 8
 # footer menu left
 [[footer_left]]
 name = "Sobre"
-url = "#"
+url = "team"
 
 [[footer_left]]
 name = "Contato"
@@ -64,25 +64,35 @@ url = "#"
 
 [[footer_middle]]
 name = "Software"
-url = "#"
+url = "software"
 
 # footer menu right
 [[footer_right]]
 name = "Professores"
-url = "professors"
+url = "team/#profs"
 weight = 1
 
 [[footer_right]]
 name = "Pós-Docs"
-url = "postdocs"
+url = "team/#postphd"
 weight = 2
 
 [[footer_right]]
-name = "Alunos"
-url = "students"
+name = "Doutorado"
+url = "team/#phd"
 weight = 3
 
 [[footer_right]]
-name = "Colaboradores"
-url = "collaborators"
+name = "Mestrado"
+url = "team/#msc"
 weight = 4
+
+[[footer_right]]
+name = "Iniciação Científica"
+url = "team/#ic"
+weight = 5
+
+[[footer_right]]
+name = "Colaboradores"
+url = "team/#colab"
+weight = 6
