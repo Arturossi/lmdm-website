@@ -1,10 +1,11 @@
 ---
-title: "Projetos"
+title: "Projects"
 draft: false
 
 project_right:
-  title : "Oi, eu sou um projeto com texto na direita!"
+  title : "Computer Aided Drug Design (CADD)"
   image : "images/banner-art.svg"
+  project_id : "cadd"
   enable : true
   project_description :
     # Description
@@ -18,8 +19,9 @@ project_right:
       description_enable : true
 
 project_left:
-  title : "Oi, eu sou um projeto com texto na esquerda!"
+  title : "Quantum Mechanics/Molecular Mechanics (QM/MM)"
   image : "images/banner-art.svg"
+  project_id : "qmmm"
   enable : true
   project_description :
     # Description

@@ -39,27 +39,30 @@ name = "Contact us"
 url = "contact"
 weight = 8
 
+
 # footer menu left
 [[footer_left]]
 name = "About Us"
-url = "#"
+url = "team"
 
 [[footer_left]]
 name = "Contact"
 url = "contact"
 
+
 # footer menu middle
 [[footer_middle]]
 name = "CADD"
-url = "cadd"
+url = "projects/#cadd"
 
 [[footer_middle]]
 name = "QM/MM"
-url = "qmmm"
+url = "projects/#qmmm"
 
 [[footer_middle]]
 name = "Software"
 url = "software"
+
 
 # footer menu right
 [[footer_right]]

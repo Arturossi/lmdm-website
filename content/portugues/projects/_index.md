@@ -3,8 +3,9 @@ title: "Projetos"
 draft: false
 
 project_right:
-  title : "Oi, eu sou um projeto com texto na direita!"
+  title : "CADD"
   image : "images/banner-art.svg"
+  project_id : "cadd"
   enable : true
   project_description :
     # Description
@@ -18,8 +19,9 @@ project_right:
       description_enable : true
 
 project_left:
-  title : "Oi, eu sou um projeto com texto na esquerda!"
+  title : "QM/MM"
   image : "images/banner-art.svg"
+  project_id : "qmmm"
   enable : true
   project_description :
     # Description

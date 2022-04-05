@@ -20,7 +20,7 @@
             <img style="width: 200px; height: 200px; border-radius: 5px;" src="{{ .image | relURL }}">
           </div>
           <div class="col-9">
-            <h4>{{ .title | title }}</h4>
+            <h4 id="{{ .project_id }}">{{ .title | title }}</h4>
             {{ range .project_description }}
               {{ if .description_enable }}
                 <p style="text-align: justify; text-justify: inter-word;">{{ .description | markdownify }}</p>
@@ -41,7 +41,7 @@
       <div class="container">
         <div class="row justify-content-center" style="margin-bottom: 25px;">
           <div class="col-9">
-            <h4>{{ .title | title }}</h4>
+            <h4 id="{{ .project_id }}">{{ .title | title }}</h4>
             {{ range .project_description }}
               {{ if .description_enable }}
                 <p style="text-align: justify; text-justify: inter-word;">{{ .description | markdownify }}</p>
