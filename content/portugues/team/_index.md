@@ -151,7 +151,7 @@ allroles:
         person_lattes: "1867426709705420"
         person_orcid: ""
         person_research_gate: ""
-        person_ig: "milarchaves"
+        person_ig: ""
         person_enable: true
         person_photo: "images/team/Camila_Chaves.jpg"
         person_description:
