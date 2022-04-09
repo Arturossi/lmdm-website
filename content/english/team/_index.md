@@ -20,6 +20,10 @@ allroles:
       # Person item loop
       - person_title: "Professor Dr."
         person_name: "Pedro Geraldo Pascutti"
+        person_lattes: "6142558410927273"
+        person_orcid: "0000-0002-5454-560X"
+        person_research_gate: "Pedro-Pascutti"
+        person_ig: ""
         person_enable: true
         person_photo: "images/team/Pedro_Pascutti.jpg"
         person_description:
@@ -33,6 +37,10 @@ allroles:
       # Person item loop
       - person_title: "Professor Dr."
         person_name: "Pedro Henrique Monteiro Torres"
+        person_lattes: "4188974374017863"
+        person_orcid: "0000-0002-0945-1495"
+        person_research_gate: "Pedro-Torres-44"
+        person_ig: "monteirotorres"
         person_enable: true
         person_photo: "images/team/Pedro_Torres.jpg"
         person_description: 
@@ -50,6 +58,10 @@ allroles:
       # Person item loop
       - person_title: "Dra."
         person_name: "Ingrid Martins"
+        person_lattes: ""
+        person_orcid: ""
+        person_research_gate: ""
+        person_ig: ""
         person_enable: true
         person_photo: "images/no-person.svg"
         person_description:
@@ -59,6 +71,10 @@ allroles:
       # Person item loop
       - person_title: "Dr."
         person_name: "Antoniel Gomes"
+        person_lattes: ""
+        person_orcid: ""
+        person_research_gate: ""
+        person_ig: ""
         person_enable: true
         person_photo: "images/no-person.svg"
         person_description:
@@ -76,6 +92,10 @@ allroles:
       # Person item loop
       - person_title: "MSc."
         person_name: "Artur Duque Rossi"
+        person_lattes: "3778951683665992"
+        person_orcid: "0000-0002-5717-2116"
+        person_research_gate: "Artur-Rossi"
+        person_ig: "rossi.artur"
         person_enable: true
         person_photo: "images/team/Artur_Rossi.jpg"
         person_description:
@@ -85,6 +105,10 @@ allroles:
       # Person item loop
       - person_title: "MSc."
         person_name: "Mariana Simões"
+        person_lattes: ""
+        person_orcid: ""
+        person_research_gate: ""
+        person_ig: ""
         person_enable: true
         person_photo: "images/no-person.svg"
         person_description:
@@ -94,6 +118,10 @@ allroles:
       # Person item loop
       - person_title: "MSc."
         person_name: "Rafael Souza"
+        person_lattes: ""
+        person_orcid: ""
+        person_research_gate: ""
+        person_ig: ""
         person_enable: true
         person_photo: "images/no-person.svg"
         person_description:
@@ -103,6 +131,10 @@ allroles:
       # Person item loop
       - person_title: "MSc."
         person_name: "Thamires Rocco"
+        person_lattes: ""
+        person_orcid: ""
+        person_research_gate: ""
+        person_ig: ""
         person_enable: true
         person_photo: "images/no-person.svg"
         person_description:
@@ -113,13 +145,17 @@ allroles:
     ############# Mestrandos #############
 
     # Role item loop
-    - role_name: "Mestrado"
+    - role_name: "MSc. Student"
       role_enable: true
       role_id: "msc"
       person:
       # Person item loop
       - person_title: "BSc."
         person_name: "Camila Rodrigues Chaves"
+        person_lattes: "1867426709705420"
+        person_orcid: ""
+        person_research_gate: ""
+        person_ig: "milarchaves"
         person_enable: true
         person_photo: "images/team/Camila_Chaves.jpg"
         person_description:
@@ -129,6 +165,10 @@ allroles:
       # Person item loop
       - person_title: "BSc."
         person_name: "Fernando Limoeiro"
+        person_lattes: ""
+        person_orcid: ""
+        person_research_gate: ""
+        person_ig: ""
         person_enable: true
         person_photo: "images/no-person.svg"
         person_description:
@@ -138,6 +178,10 @@ allroles:
       # Person item loop
       - person_title: "BSc."
         person_name: "Jonatan"
+        person_lattes: ""
+        person_orcid: ""
+        person_research_gate: ""
+        person_ig: ""
         person_enable: true
         person_photo: "images/no-person.svg"
         person_description:
@@ -147,6 +191,10 @@ allroles:
       # Person item loop
       - person_title: "BSc."
         person_name: "Nathalia"
+        person_lattes: ""
+        person_orcid: ""
+        person_research_gate: ""
+        person_ig: ""
         person_enable: true
         person_photo: "images/no-person.svg"
         person_description:
@@ -156,6 +204,10 @@ allroles:
       # Person item loop
       - person_title: "BSc."
         person_name: "Samuel de Araujo"
+        person_lattes: ""
+        person_orcid: ""
+        person_research_gate: ""
+        person_ig: ""
         person_enable: true
         person_photo: "images/no-person.svg"
         person_description:
@@ -165,6 +217,10 @@ allroles:
       # Person item loop
       - person_title: "BSc."
         person_name: "Vinnícius Machado"
+        person_lattes: ""
+        person_orcid: ""
+        person_research_gate: ""
+        person_ig: ""
         person_enable: true
         person_photo: "images/no-person.svg"
         person_description:
@@ -175,13 +231,17 @@ allroles:
     ############# ICs #############
 
     # Role item loop
-    - role_name: "Iniciação científica"
+    - role_name: "Scientific initiation"
       role_enable: true
       role_id: "ic"
       person:
       # Person item loop
       - person_title: ""
         person_name: "Andressa Fagundes"
+        person_lattes: ""
+        person_orcid: ""
+        person_research_gate: ""
+        person_ig: ""
         person_enable: true
         person_photo: "images/no-person.svg"
         person_description:
@@ -191,6 +251,10 @@ allroles:
       # Person item loop
       - person_title: ""
         person_name: "Beatriz Moura"
+        person_lattes: ""
+        person_orcid: ""
+        person_research_gate: ""
+        person_ig: ""
         person_enable: true
         person_photo: "images/no-person.svg"
         person_description:
@@ -200,6 +264,10 @@ allroles:
       # Person item loop
       - person_title: ""
         person_name: "Clara Monachesi"
+        person_lattes: ""
+        person_orcid: ""
+        person_research_gate: ""
+        person_ig: ""
         person_enable: true
         person_photo: "images/no-person.svg"
         person_description:
@@ -209,6 +277,10 @@ allroles:
       # Person item loop
       - person_title: ""
         person_name: "Guilherme Ian"
+        person_lattes: ""
+        person_orcid: ""
+        person_research_gate: ""
+        person_ig: ""
         person_enable: true
         person_photo: "images/no-person.svg"
         person_description:
@@ -218,6 +290,10 @@ allroles:
       # Person item loop
       - person_title: ""
         person_name: "Henry"
+        person_lattes: ""
+        person_orcid: ""
+        person_research_gate: ""
+        person_ig: ""
         person_enable: true
         person_photo: "images/no-person.svg"
         person_description:
@@ -226,16 +302,24 @@ allroles:
           description_enable: true
       # Person item loop
       - person_title: ""
-        person_name: "Lilian"
+        person_name: "Lilian Mendonça Alves de Oliveira"
+        person_lattes: "3685065761835496"
+        person_orcid: "0000-0002-6802-0361"
+        person_research_gate: ""
+        person_ig: "lilian.zinha"
         person_enable: true
-        person_photo: "images/no-person.svg"
+        person_photo: "images/team/Lilian_de_Oliveira.jpg"
         person_description:
         # Person description item loop
-        - description: ""
+        - description: "BSc. student in Biological Sciences - Biophysics with an emphasis in biotechnology at the Federal University of Rio de Janeiro (UFRJ) - Duque de Caxias campus. Currently has a Scientific Initiation student at LMDM's laboratory. Her project has on a focus the Computational Modelling of the Zika Virus (ZikV)."
           description_enable: true
       # Person item loop
       - person_title: ""
         person_name: "Nilton Silva"
+        person_lattes: ""
+        person_orcid: ""
+        person_research_gate: ""
+        person_ig: ""
         person_enable: true
         person_photo: "images/no-person.svg"
         person_description:
@@ -253,6 +337,10 @@ allroles:
       # Person item loop
       - person_title: "PhD."
         person_name: "Paulo Mascarello Bisch"
+        person_lattes: ""
+        person_orcid: ""
+        person_research_gate: ""
+        person_ig: ""
         person_enable: true
         person_photo: "images/no-person.svg"
         person_description:

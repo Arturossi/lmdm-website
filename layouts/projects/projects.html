@@ -13,15 +13,19 @@
 <!-- project_right -->
 {{ with .Params.project_right }}
   {{ if .enable }}
-    <section class="section bg-light" id="{{ .project_id }}">
+    <section class="section bg-light">
       {{ range .project }}
-        <div class="container">
+        <div class="container" id="{{ .project_id }}">
           <div class="row justify-content-center" style="margin-bottom: 25px;">
             <div class="col-3">
-              <img style="width: 200px; height: 200px; border-radius: 5px;" src="{{ .image | relURL }}">
+              <a href="{{ .project_link | safeURL }}">
+                <img style="width: 200px; height: 200px; border-radius: 5px;" src="{{ .image | relURL }}">
+              </a>
             </div>
             <div class="col-9">
-              <h4>{{ .title | title }}</h4>
+              <a href="{{ .project_link | safeURL }}">
+                <h4>{{ .title | title }}</h4>
+              </a>
               {{ range .project_description }}
                 {{ if .description_enable }}
                   <p style="text-align: justify; text-justify: inter-word;">{{ .description | markdownify }}</p>
@@ -38,12 +42,14 @@
 <!-- project_left -->
 {{ with .Params.project_left }}
   {{ if .enable }}
-    <section class="section bg-light" id="{{ .project_id }}">
+    <section class="section bg-light">
       {{ range .project }}
-        <div class="container">
+        <div class="container" id="{{ .project_id }}">
           <div class="row justify-content-center" style="margin-bottom: 25px;">
             <div class="col-9">
-              <h4>{{ .title | title }}</h4>
+              <a href="{{ .project_link | safeURL }}">
+                <h4>{{ .title | title }}</h4>
+              </a>
               {{ range .project_description }}
                 {{ if .description_enable }}
                   <p style="text-align: justify; text-justify: inter-word;">{{ .description | markdownify }}</p>
@@ -51,7 +57,9 @@
               {{ end }}
             </div>
             <div class="col-3">
-              <img style="width: 200px; height: 200px; border-radius: 5px;" src="{{ .image | relURL }}">
+              <a href="{{ .project_link | safeURL }}">
+                <img style="width: 200px; height: 200px; border-radius: 5px;" src="{{ .image | relURL }}">
+              </a>
             </div>
           </div>
         </div>
@@ -64,14 +72,16 @@
 <!-- project_left_then_right -->
 {{ with .Params.project_left_then_right }}
   {{ if .enable }}
-    <section class="section bg-light" id="{{ .project_id }}">
+    <section class="section bg-light">
       {{ range $i,$p := .project }}
         {{ if .project_enable }}
-          <div class="container">
+          <div class="container" id="{{ .project_id }}">
             <div class="row justify-content-center" style="margin-bottom: 25px;">
               {{ if modBool $i 2 }}
                 <div class="col-9">
-                  <h4>{{ .title | title }}</h4>
+                  <a href="{{ .project_link | safeURL }}">
+                    <h4>{{ .title | title }}</h4>
+                  </a>
                   {{ range .project_description }}
                     {{ if .description_enable }}
                       <p style="text-align: justify; text-justify: inter-word;">{{ .description | markdownify }}</p>
@@ -79,14 +89,20 @@
                   {{ end }}
                 </div>
                 <div class="col-3">
-                  <img style="width: 200px; height: 200px; border-radius: 5px;" src="{{ .image | relURL }}">
+                  <a href="{{ .project_link | safeURL }}">
+                    <img style="width: 200px; height: 200px; border-radius: 5px;" src="{{ .image | relURL }}">
+                  </a>
                 </div>
               {{ else }}
                 <div class="col-3">
-                  <img style="width: 200px; height: 200px; border-radius: 5px;" src="{{ .image | relURL }}">
+                  <a href="{{ .project_link | safeURL }}">
+                    <img style="width: 200px; height: 200px; border-radius: 5px;" src="{{ .image | relURL }}">
+                  </a>
                 </div>
                 <div class="col-9">
-                  <h4>{{ .title | title }}</h4>
+                  <a href="{{ .project_link | safeURL }}">
+                    <h4>{{ .title | title }}</h4>
+                  </a>
                   {{ range .project_description }}
                     {{ if .description_enable }}
                       <p style="text-align: justify; text-justify: inter-word;">{{ .description | markdownify }}</p>
@@ -106,17 +122,21 @@
 <!-- project_right_then_left -->
 {{ with .Params.project_right_then_left }}
   {{ if .enable }}
-    <section class="section bg-light" id="{{ .project_id }}">
+    <section class="section bg-light">
       {{ range $i,$p := .project }}
         {{ if .project_enable }}
-          <div class="container">
+          <div class="container" id="{{ .project_id }}">
             <div class="row justify-content-center" style="margin-bottom: 25px;">
               {{ if modBool $i 2 }}
                 <div class="col-3">
-                  <img style="width: 200px; height: 200px; border-radius: 5px;" src="{{ .image | relURL }}">
+                  <a href="{{ .project_link | safeURL }}">
+                    <img style="width: 200px; height: 200px; border-radius: 5px;" src="{{ .image | relURL }}">
+                  </a>
                 </div>
                 <div class="col-9">
-                  <h4>{{ .title | title }}</h4>
+                  <a href="{{ .project_link | safeURL }}">
+                    <h4>{{ .title | title }}</h4>
+                  </a>
                   {{ range .project_description }}
                     {{ if .description_enable }}
                       <p style="text-align: justify; text-justify: inter-word;">{{ .description | markdownify }}</p>
@@ -125,7 +145,9 @@
                 </div>
               {{ else }}
                 <div class="col-9">
-                  <h4>{{ .title | title }}</h4>
+                  <a href="{{ .project_link | safeURL }}">
+                    <h4>{{ .title | title }}</h4>
+                  </a>
                   {{ range .project_description }}
                     {{ if .description_enable }}
                       <p style="text-align: justify; text-justify: inter-word;">{{ .description | markdownify }}</p>
@@ -133,7 +155,9 @@
                   {{ end }}
                 </div>
                 <div class="col-3">
-                  <img style="width: 200px; height: 200px; border-radius: 5px;" src="{{ .image | relURL }}">
+                  <a href="{{ .project_link | safeURL }}">
+                    <img style="width: 200px; height: 200px; border-radius: 5px;" src="{{ .image | relURL }}">
+                  </a>
                 </div>
               {{ end }}
             </div>

@@ -56,7 +56,8 @@ software:
         - description: "Uma pipeline para modelagem de complexos homo-oligoméricos."
           software_description_enable : true
       software_link : "http://lmdm.biof.ufrj.br/protchoir"
-      label: "Saber mais"
+      github_link : "https://github.com/monteirotorres/ProtCHOIR"
+      label: "Acessar página"
     
     - software_title : "Rsurf2Grace"
       software_enable : true

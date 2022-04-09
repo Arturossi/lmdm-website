@@ -10,6 +10,10 @@ papers:
   title : "Publicações"
   enable : true
   year :
+  - year_title : "2022"
+    year_enable : true
+    paper :
+
   - year_title : "2021"
     year_enable : true
     paper :

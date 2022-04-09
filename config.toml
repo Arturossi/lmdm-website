@@ -5,4 +5,6 @@ theme = "bigspring"
 DefaultContentLanguage = "pt"
 
 [params]
-favicon = "/images/favicon.ico" # Path to favicon file
+    author = "Artur Duque Rossi"
+    favicon = "/images/favicon.ico" # Path to favicon file
+    css = ["css/main.css"]

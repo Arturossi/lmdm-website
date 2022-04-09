@@ -17,11 +17,16 @@
                                         <img class="card-img-top" style="width: 286px; height: 250px;" src="{{ .software_image | relURL }}" alt="{{ .software_image_alt | markdownify }}">
                                     </div>
                                     <div class="card-body">
-                                    <h5 class="card-title">{{ .software_title | markdownify }}</h5>
-                                    {{ range .software_description }}
-                                        <p class="card-text" style="text-align: justify; text-justify: inter-word; overflow-y: auto; height: 165px;">{{ .description | markdownify }}</p>
-                                    {{ end }}
-                                    <a href="{{ .software_link | relURL }}" class="btn btn-primary" style="position: absolute; left: 20px; bottom: 10px;">{{ .label | markdownify }}</a>
+                                        <h5 class="card-title">{{ .software_title | markdownify }}</h5>
+                                        {{ range .software_description }}
+                                            <p class="card-text" style="text-align: justify; text-justify: inter-word; overflow-y: auto; height: 165px;">{{ .description | markdownify }}</p>
+                                        {{ end }}
+                                        <a href="{{ .software_link | relURL }}" class="btn btn-primary" style="position: absolute; left: 20px; bottom: 10px;" title="{{ .label | markdownify }}">{{ .label | markdownify }}</a>
+                                        {{ if .github_link }}
+                                            <a href="{{ .github_link | relURL }}" style="position: absolute; right: 20px; bottom: 10px;" title="GitHub link." target="_blank">
+                                                <img src="/images/github.svg" style="width: 50px; height: 50px;" alt="GitHub logo">
+                                            </a>
+                                        {{ end }}
                                     </div>
                                 </div>
                             </div>

@@ -20,18 +20,23 @@ allroles:
       # Person item loop
       - person_title: "Professor Dr."
         person_name: "Pedro Geraldo Pascutti"
+        person_lattes: "6142558410927273"
+        person_orcid: "0000-0002-5454-560X"
+        person_research_gate: "Pedro-Pascutti"
+        person_ig: ""
         person_enable: true
         person_photo: "images/team/Pedro_Pascutti.jpg"
         person_description:
         # Person description item loop
-        - description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pellentesque a lectus id congue. In eu dolor nunc. Mauris vitae eros quis quam iaculis vestibulum nec sit amet justo. Proin elementum accumsan leo. Sed sit amet elit vitae neque aliquam viverra sit amet nec magna. Nunc rhoncus volutpat magna sed tempus. Maecenas vitae urna iaculis, hendrerit felis a, feugiat orci. Sed in lacus eget arcu mollis condimentum in vehicula lectus. Quisque ultricies libero sit amet sodales pretium. Curabitur eu luctus lorem. Vestibulum non eros molestie, bibendum tortor ut, pharetra augue. Donec non diam a nunc venenatis gravida vel non erat. Nullam feugiat, quam at hendrerit sollicitudin, est urna efficitur justo, eu mattis quam nulla ut diam. Praesent vel massa at odio luctus ornare."
-          description_enable: true
-        # Person description item loop
-        - description: "Suspendisse tortor mauris, cursus sed tincidunt eget, condimentum eu velit. Sed euismod, metus vitae laoreet luctus, enim augue viverra dolor, in faucibus felis lorem ac augue. Proin eget nisi a ipsum vestibulum aliquet. Aliquam cursus volutpat ligula. Nulla facilisi. Pellentesque augue erat, aliquam vel quam aliquet, tempor fringilla turpis. Fusce sodales dui id lectus congue aliquam. Nam ac molestie purus. Mauris mollis metus sed quam pulvinar viverra. Phasellus eget tristique velit, quis gravida elit."
+        - description: "Possui graduação em Física pela Universidade Estadual de Londrina (1986), mestrado (1990) e doutorado (1996) em Física pela Universidade de São Paulo, pós-doutorado em Biofísica Molecular na Universidade Federal do Rio de Janeiro - UFRJ (1998) e no Instituto Beckman na Universidade de Illinois, Estados Unidos (2018). É professor Associado IV no Instituto de Biofísica Carlos Chagas Filho da UFRJ. Tem experiência em Biofísica Molecular teórica e experimental e desenvolve pesquisas em modelagem computacional e dinâmica molecular em complexos proteicos, biomembranas e planejamento de fármacos. Chefia o Laboratório de Modelagem e Dinâmica Molecular do IBCCF, UFRJ, foi Cientista do Nosso Estado FAPERJ (2009-2011), coordenou a Área Interdisciplinar da CAPES(adjunto: 2007-2010, titular: 2010-2014) e foi membro titular do Conselho Técnico e Científico do Ensino Superior do Brasil (2010-2013)."
           description_enable: true
       # Person item loop
       - person_title: "Professor Dr."
         person_name: "Pedro Henrique Monteiro Torres"
+        person_lattes: "4188974374017863"
+        person_orcid: "0000-0002-0945-1495"
+        person_research_gate: "Pedro-Torres-44"
+        person_ig: "monteirotorres"
         person_enable: true
         person_photo: "images/team/Pedro_Torres.jpg"
         person_description: 
@@ -49,6 +54,10 @@ allroles:
       # Person item loop
       - person_title: "Dra."
         person_name: "Ingrid Martins"
+        person_lattes: ""
+        person_orcid: ""
+        person_research_gate: ""
+        person_ig: ""
         person_enable: true
         person_photo: "images/no-person.svg"
         person_description:
@@ -58,6 +67,10 @@ allroles:
       # Person item loop
       - person_title: "Dr."
         person_name: "Antoniel Gomes"
+        person_lattes: ""
+        person_orcid: ""
+        person_research_gate: ""
+        person_ig: ""
         person_enable: true
         person_photo: "images/no-person.svg"
         person_description:
@@ -75,6 +88,10 @@ allroles:
       # Person item loop
       - person_title: "MSc."
         person_name: "Artur Duque Rossi"
+        person_lattes: "3778951683665992"
+        person_orcid: "0000-0002-5717-2116"
+        person_research_gate: "Artur-Rossi"
+        person_ig: "rossi.artur"
         person_enable: true
         person_photo: "images/team/Artur_Rossi.jpg"
         person_description:
@@ -84,6 +101,10 @@ allroles:
       # Person item loop
       - person_title: "MSc."
         person_name: "Mariana Simões"
+        person_lattes: ""
+        person_orcid: ""
+        person_research_gate: ""
+        person_ig: ""
         person_enable: true
         person_photo: "images/no-person.svg"
         person_description:
@@ -93,6 +114,10 @@ allroles:
       # Person item loop
       - person_title: "MSc."
         person_name: "Rafael Souza"
+        person_lattes: ""
+        person_orcid: ""
+        person_research_gate: ""
+        person_ig: ""
         person_enable: true
         person_photo: "images/no-person.svg"
         person_description:
@@ -102,6 +127,10 @@ allroles:
       # Person item loop
       - person_title: "MSc."
         person_name: "Thamires Rocco"
+        person_lattes: ""
+        person_orcid: ""
+        person_research_gate: ""
+        person_ig: ""
         person_enable: true
         person_photo: "images/no-person.svg"
         person_description:
@@ -119,6 +148,10 @@ allroles:
       # Person item loop
       - person_title: "BSc."
         person_name: "Camila Rodrigues Chaves"
+        person_lattes: "1867426709705420"
+        person_orcid: ""
+        person_research_gate: ""
+        person_ig: "milarchaves"
         person_enable: true
         person_photo: "images/team/Camila_Chaves.jpg"
         person_description:
@@ -128,6 +161,10 @@ allroles:
       # Person item loop
       - person_title: "BSc."
         person_name: "Fernando Limoeiro"
+        person_lattes: ""
+        person_orcid: ""
+        person_research_gate: ""
+        person_ig: ""
         person_enable: true
         person_photo: "images/no-person.svg"
         person_description:
@@ -137,6 +174,10 @@ allroles:
       # Person item loop
       - person_title: "BSc."
         person_name: "Jonatan"
+        person_lattes: ""
+        person_orcid: ""
+        person_research_gate: ""
+        person_ig: ""
         person_enable: true
         person_photo: "images/no-person.svg"
         person_description:
@@ -146,6 +187,10 @@ allroles:
       # Person item loop
       - person_title: "BSc."
         person_name: "Nathalia"
+        person_lattes: ""
+        person_orcid: ""
+        person_research_gate: ""
+        person_ig: ""
         person_enable: true
         person_photo: "images/no-person.svg"
         person_description:
@@ -155,6 +200,10 @@ allroles:
       # Person item loop
       - person_title: "BSc."
         person_name: "Samuel de Araujo"
+        person_lattes: ""
+        person_orcid: ""
+        person_research_gate: ""
+        person_ig: ""
         person_enable: true
         person_photo: "images/no-person.svg"
         person_description:
@@ -164,6 +213,10 @@ allroles:
       # Person item loop
       - person_title: "BSc."
         person_name: "Vinnícius Machado"
+        person_lattes: ""
+        person_orcid: ""
+        person_research_gate: ""
+        person_ig: ""
         person_enable: true
         person_photo: "images/no-person.svg"
         person_description:
@@ -181,6 +234,10 @@ allroles:
       # Person item loop
       - person_title: ""
         person_name: "Andressa Fagundes"
+        person_lattes: ""
+        person_orcid: ""
+        person_research_gate: ""
+        person_ig: ""
         person_enable: true
         person_photo: "images/no-person.svg"
         person_description:
@@ -190,6 +247,10 @@ allroles:
       # Person item loop
       - person_title: ""
         person_name: "Beatriz Moura"
+        person_lattes: ""
+        person_orcid: ""
+        person_research_gate: ""
+        person_ig: ""
         person_enable: true
         person_photo: "images/no-person.svg"
         person_description:
@@ -199,6 +260,10 @@ allroles:
       # Person item loop
       - person_title: ""
         person_name: "Clara Monachesi"
+        person_lattes: ""
+        person_orcid: ""
+        person_research_gate: ""
+        person_ig: ""
         person_enable: true
         person_photo: "images/no-person.svg"
         person_description:
@@ -208,6 +273,10 @@ allroles:
       # Person item loop
       - person_title: ""
         person_name: "Guilherme Ian"
+        person_lattes: ""
+        person_orcid: ""
+        person_research_gate: ""
+        person_ig: ""
         person_enable: true
         person_photo: "images/no-person.svg"
         person_description:
@@ -217,6 +286,10 @@ allroles:
       # Person item loop
       - person_title: ""
         person_name: "Henry"
+        person_lattes: ""
+        person_orcid: ""
+        person_research_gate: ""
+        person_ig: ""
         person_enable: true
         person_photo: "images/no-person.svg"
         person_description:
@@ -225,16 +298,24 @@ allroles:
           description_enable: true
       # Person item loop
       - person_title: ""
-        person_name: "Lilian"
+        person_name: "Lilian Mendonça Alves de Oliveira"
+        person_lattes: "3685065761835496"
+        person_orcid: "0000-0002-6802-0361"
+        person_research_gate: ""
+        person_ig: "lilian.zinha"
         person_enable: true
-        person_photo: "images/no-person.svg"
+        person_photo: "images/team/Lilian_de_Oliveira.jpg"
         person_description:
         # Person description item loop
-        - description: ""
+        - description: "Discente de Ciências Biológicas - Biofísica com ênfase em Biotecnologia na Universidade Federal do Rio de Janeiro (UFRJ) no campus de Duque de Caxias. Atualmente é aluna de Iniciação Científica no LMDM, com o projeto focado em Modelagem Computacional do Vírus Zika (ZikV)."
           description_enable: true
       # Person item loop
       - person_title: ""
         person_name: "Nilton Silva"
+        person_lattes: ""
+        person_orcid: ""
+        person_research_gate: ""
+        person_ig: ""
         person_enable: true
         person_photo: "images/no-person.svg"
         person_description:
@@ -252,6 +333,10 @@ allroles:
       # Person item loop
       - person_title: "Dr."
         person_name: "Paulo Mascarello Bisch"
+        person_lattes: ""
+        person_orcid: ""
+        person_research_gate: ""
+        person_ig: ""
         person_enable: true
         person_photo: "images/no-person.svg"
         person_description:

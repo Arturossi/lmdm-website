@@ -35,7 +35,29 @@
                       <img style="width: 200px; height: 200px; border-radius: 75px 110px 100px 87px;" src="{{ .person_photo | relURL }}">
                     </div>
                     <div class="col-9">
-                      <h4>{{ .person_title | title }} {{ .person_name | title }}</h4>
+                      <h4 style="display: inline-block; margin-right: 10px;">{{ .person_title | title }} {{ .person_name | title }}</h4>
+                      <div style="display: inline-block;">
+                        {{ if .person_lattes }}
+                          <a href="http://lattes.cnpq.br/{{ .person_lattes | safeURL }}" target="_blank">
+                            <img src="/images/lattes.png" style="height: 25px; width: 25px;">
+                          </a>
+                        {{end}}
+                        {{ if .person_orcid }}
+                          <a href="https://orcid.org/{{ .person_orcid | safeURL }}" target="_blank">
+                            <img src="/images/orcid.svg" style="height: 25px; width: 25px;">
+                          </a>
+                        {{end}}
+                        {{ if .person_research_gate }}
+                          <a href="https://www.researchgate.net/profile/{{ .person_research_gate | safeURL }}" target="_blank">
+                            <img src="/images/research-gate.svg" style="height: 25px; width: 25px;">
+                          </a>
+                        {{end}}
+                        {{ if .person_ig }}
+                          <a href="https://www.instagram.com/{{ .person_ig | safeURL }}/" target="_blank">
+                            <img src="/images/ig.svg" style="height: 25px; width: 25px;">
+                          </a>
+                        {{end}}
+                      </div>
                       {{ range .person_description }}
                         {{ if .description_enable }}
                           <p style="text-align: justify; text-justify: inter-word;">{{ .description | markdownify }}</p>
