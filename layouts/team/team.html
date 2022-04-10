@@ -52,6 +52,11 @@
                             <img src="/images/research-gate.svg" style="height: 25px; width: 25px;">
                           </a>
                         {{end}}
+                        {{ if .person_github }}
+                          <a href="https://github.com/{{ .person_github | safeURL }}" target="_blank">
+                            <img src="/images/github.svg" style="height: 25px; width: 25px;">
+                          </a>
+                        {{end}}
                         {{ if .person_ig }}
                           <a href="https://www.instagram.com/{{ .person_ig | safeURL }}/" target="_blank">
                             <img src="/images/ig.svg" style="height: 25px; width: 25px;">

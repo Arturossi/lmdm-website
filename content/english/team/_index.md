@@ -23,6 +23,7 @@ allroles:
         person_lattes: "6142558410927273"
         person_orcid: "0000-0002-5454-560X"
         person_research_gate: "Pedro-Pascutti"
+        person_github: ""
         person_ig: ""
         person_enable: true
         person_photo: "images/team/Pedro_Pascutti.jpg"
@@ -40,6 +41,7 @@ allroles:
         person_lattes: "4188974374017863"
         person_orcid: "0000-0002-0945-1495"
         person_research_gate: "Pedro-Torres-44"
+        person_github: "monteirotorres"
         person_ig: "monteirotorres"
         person_enable: true
         person_photo: "images/team/Pedro_Torres.jpg"
@@ -61,6 +63,7 @@ allroles:
         person_lattes: ""
         person_orcid: ""
         person_research_gate: ""
+        person_github: ""
         person_ig: ""
         person_enable: true
         person_photo: "images/no-person.svg"
@@ -74,6 +77,7 @@ allroles:
         person_lattes: ""
         person_orcid: ""
         person_research_gate: ""
+        person_github: ""
         person_ig: ""
         person_enable: true
         person_photo: "images/no-person.svg"
@@ -95,6 +99,7 @@ allroles:
         person_lattes: "3778951683665992"
         person_orcid: "0000-0002-5717-2116"
         person_research_gate: "Artur-Rossi"
+        person_github: "Arturossi"
         person_ig: "rossi.artur"
         person_enable: true
         person_photo: "images/team/Artur_Rossi.jpg"
@@ -108,6 +113,7 @@ allroles:
         person_lattes: ""
         person_orcid: ""
         person_research_gate: ""
+        person_github: ""
         person_ig: ""
         person_enable: true
         person_photo: "images/no-person.svg"
@@ -121,6 +127,7 @@ allroles:
         person_lattes: ""
         person_orcid: ""
         person_research_gate: ""
+        person_github: ""
         person_ig: ""
         person_enable: true
         person_photo: "images/no-person.svg"
@@ -134,6 +141,7 @@ allroles:
         person_lattes: ""
         person_orcid: ""
         person_research_gate: ""
+        person_github: ""
         person_ig: ""
         person_enable: true
         person_photo: "images/no-person.svg"
@@ -153,8 +161,9 @@ allroles:
       - person_title: "BSc."
         person_name: "Camila Rodrigues Chaves"
         person_lattes: "1867426709705420"
-        person_orcid: ""
+        person_orcid: "0000-0002-8423-9953"
         person_research_gate: ""
+        person_github: "milarchaves"
         person_ig: ""
         person_enable: true
         person_photo: "images/team/Camila_Chaves.jpg"
@@ -168,6 +177,7 @@ allroles:
         person_lattes: ""
         person_orcid: ""
         person_research_gate: ""
+        person_github: ""
         person_ig: ""
         person_enable: true
         person_photo: "images/no-person.svg"
@@ -181,6 +191,7 @@ allroles:
         person_lattes: ""
         person_orcid: ""
         person_research_gate: ""
+        person_github: ""
         person_ig: ""
         person_enable: true
         person_photo: "images/no-person.svg"
@@ -194,6 +205,7 @@ allroles:
         person_lattes: ""
         person_orcid: ""
         person_research_gate: ""
+        person_github: ""
         person_ig: ""
         person_enable: true
         person_photo: "images/no-person.svg"
@@ -207,6 +219,7 @@ allroles:
         person_lattes: ""
         person_orcid: ""
         person_research_gate: ""
+        person_github: ""
         person_ig: ""
         person_enable: true
         person_photo: "images/no-person.svg"
@@ -220,6 +233,7 @@ allroles:
         person_lattes: ""
         person_orcid: ""
         person_research_gate: ""
+        person_github: ""
         person_ig: ""
         person_enable: true
         person_photo: "images/no-person.svg"
@@ -241,6 +255,7 @@ allroles:
         person_lattes: ""
         person_orcid: ""
         person_research_gate: ""
+        person_github: ""
         person_ig: ""
         person_enable: true
         person_photo: "images/no-person.svg"
@@ -254,6 +269,7 @@ allroles:
         person_lattes: ""
         person_orcid: ""
         person_research_gate: ""
+        person_github: ""
         person_ig: ""
         person_enable: true
         person_photo: "images/no-person.svg"
@@ -267,6 +283,7 @@ allroles:
         person_lattes: ""
         person_orcid: ""
         person_research_gate: ""
+        person_github: ""
         person_ig: ""
         person_enable: true
         person_photo: "images/no-person.svg"
@@ -280,6 +297,7 @@ allroles:
         person_lattes: ""
         person_orcid: ""
         person_research_gate: ""
+        person_github: ""
         person_ig: ""
         person_enable: true
         person_photo: "images/no-person.svg"
@@ -293,6 +311,7 @@ allroles:
         person_lattes: ""
         person_orcid: ""
         person_research_gate: ""
+        person_github: ""
         person_ig: ""
         person_enable: true
         person_photo: "images/no-person.svg"
@@ -306,6 +325,7 @@ allroles:
         person_lattes: "3685065761835496"
         person_orcid: "0000-0002-6802-0361"
         person_research_gate: ""
+        person_github: ""
         person_ig: "lilian.zinha"
         person_enable: true
         person_photo: "images/team/Lilian_de_Oliveira.jpg"
@@ -319,6 +339,7 @@ allroles:
         person_lattes: ""
         person_orcid: ""
         person_research_gate: ""
+        person_github: ""
         person_ig: ""
         person_enable: true
         person_photo: "images/no-person.svg"
@@ -340,6 +361,7 @@ allroles:
         person_lattes: ""
         person_orcid: ""
         person_research_gate: ""
+        person_github: ""
         person_ig: ""
         person_enable: true
         person_photo: "images/no-person.svg"
