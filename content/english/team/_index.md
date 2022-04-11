@@ -289,7 +289,7 @@ allroles:
         person_photo: "images/team/Beatriz_Moura.jpg"
         person_description:
         # Person description item loop
-        - description: "Undergraduate student in Biological Sciences: Biophysics with emphasis on Molecular Biology and Bioinformatics, at Carlos Chagas Filho Institute (IBCCF) - UFRJ. Since 2021, he has been part of the Molecular Dynamics and Modeling Laboratory (LMDM), where he carried out an internship on Machine Learning, under the guidance of Dr.Pedro H Monteiro Torres and co-supervision of MSc.Artur D. Rossi. She is currently carrying out a Scientific Initiation (SI) at LMDM in partnership with the Laboratory of Radiations in Biology (LaRBio), on \"Analysis of regulatory regions of stress-related genes in Deinococcus Radiodurans bacteria\", under the guidance of PhD. Pedro H Monteiro Torres and PhD. Claudia Lage."
+        - description: "Undergraduate student in Biological Sciences: Biophysics with emphasis on Molecular Biology and Bioinformatics, at  Carlos Chagas Filho Institute (IBCCF) - UFRJ. Since 2021, she has been part of the Laboratory of Molecular Dynamics and Modeling (LMDM), where she carried out an internship on Machine Learning, supervised by PhD.Pedro H Monteiro Torres and co-supervised by MSc.Artur D. Rossi. Currently, she is carrying out a Scientific Initiation (SI) at LMDM in partnership with the Laboratory of Radiations in Biology (LaRBio), on "Analysis of regulatory regions of stress-related genes in Deinococcus bacteria", with the guidance of PhD.Pedro H Monteiro Torres and the PhD. Claudia Lage."
           description_enable: true
       # Person item loop
       - person_title: ""
