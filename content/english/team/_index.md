@@ -58,20 +58,6 @@ allroles:
       role_id: "postphd"
       person:
       # Person item loop
-      - person_title: "Dra."
-        person_name: "Ingrid Martins"
-        person_lattes: ""
-        person_orcid: ""
-        person_research_gate: ""
-        person_github: ""
-        person_ig: ""
-        person_enable: true
-        person_photo: "images/no-person.svg"
-        person_description:
-        # Person description item loop
-        - description: ""
-          description_enable: false
-      # Person item loop
       - person_title: "Dr."
         person_name: "Antoniel Gomes"
         person_lattes: ""
@@ -84,6 +70,20 @@ allroles:
         person_description:
         # Person description item loop
         - description: ""
+          description_enable: true
+      # Person item loop
+      - person_title: "Dra."
+        person_name: "Ingrid Bernardes Santana Martins"
+        person_lattes: "5116710887551537"
+        person_orcid: "0000-0001-9970-6035"
+        person_research_gate: "Ingrid-Martins-2"
+        person_github: ""
+        person_ig: "ingriiidm"
+        person_enable: true
+        person_photo: "images/team/Ingrid_Martins.jpg"
+        person_description:
+        # Person description item loop
+        - description: "Graduated in Biological Physics (2010-2013) at the Institute of Biosciences, Languages and Exact Sciences of the São Paulo State University (Ibilce/Unesp). Master's degree (2014-2016) and PhD (2016-2021) in Molecular Biophysics at the same institution. Has experience on performing Molecular Dynamics simulations and Constant pH Molecular Dynamics of lipid bilayers, proteins and small ligands.  Currently is a member of the LMDM and post-doc at the Federal University of Rio de Janeiro under Prof. Dr. Pedro Geraldo Pascutti's supervision."
           description_enable: true
 
     ############# Doutorandos #############
@@ -106,6 +106,20 @@ allroles:
         person_description:
         # Person description item loop
         - description: "Graduated in Computer engineering (2010-2014) at the Catholic University of Petrópolis and in Information and Comunication Technology (2010-2013) at FAETERJ - Petrópolis. Has a master degree in Computational Modelling (2015-2017) at the Federal University of Juiz de Fora. Has worked so far with bioinformatics and computational biology with an enphasis at the homology protein structure prediciton method and also in artificial intelligence. During the master degree has created part of the MHOLline 2.0 scientific workflow (www.mholline2.lncc.br). Currently is a PhD student in Biophysics at the Federal University of Rio de Janeiro and its thesis theme is the creation of an artificial intelligence to generate a consesus of molecular docking scoring functions."
+          description_enable: true
+      # Person item loop
+      - person_title: "MSc."
+        person_name: "José de Anchieta de Oliveira Filho"
+        person_lattes: "9745662716965944"
+        person_orcid: ""
+        person_research_gate: ""
+        person_github: ""
+        person_ig: ""
+        person_enable: true
+        person_photo: "images/team/Anchieta_Oliveira.jpg"
+        person_description:
+        # Person description item loop
+        - description: "Graduated in Biotechnology (2019) and a master (2022) in Biotechnology from the Federal University of Paraíba (UFPB). Currently is a PhD student in Biophysics at the Carlos Chagas Filho Institute of Biophysics at the Federal University of Rio de Janeiro. Currently working with  computer-aided drug design in the search for compounds to stimulate cardiac regeneration."
           description_enable: true
       # Person item loop
       - person_title: "MSc."

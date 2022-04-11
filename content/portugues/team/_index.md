@@ -54,20 +54,6 @@ allroles:
       role_id: "postphd"
       person:
       # Person item loop
-      - person_title: "Dra."
-        person_name: "Ingrid Martins"
-        person_lattes: ""
-        person_orcid: ""
-        person_research_gate: ""
-        person_github: ""
-        person_ig: ""
-        person_enable: true
-        person_photo: "images/no-person.svg"
-        person_description:
-        # Person description item loop
-        - description: ""
-          description_enable: false
-      # Person item loop
       - person_title: "Dr."
         person_name: "Antoniel Gomes"
         person_lattes: ""
@@ -80,6 +66,21 @@ allroles:
         person_description:
         # Person description item loop
         - description: ""
+          description_enable: true
+      # Person item loop
+      - person_title: "Dra."
+        person_name: "Ingrid Bernardes Santana Martins"
+        person_lattes: "5116710887551537"
+        person_orcid: "0000-0001-9970-6035"
+        person_research_gate: "Ingrid-Martins-2"
+        person_github: ""
+        person_ig: "ingriiidm"
+        person_enable: true
+        person_photo: "images/team/Ingrid_Martins.jpg"
+        person_description:
+        
+        #  Person description item loop
+        - description: "Graduada em Física Biológica (2010-2013) no Instituto de Biociências, Letras e Ciências Exatas da Universidade Estadual Paulista (Ibilce/Unesp). Mestrado (2014-2016) e Doutorado (2016-2021) em Biofísica Molecular na mesma instituição. Possui experiência em simulações de Dinâmica Molecular e  Dinâmica Molecular a pH Constante de bicamadas lipídicas, proteínas e pequenos ligantes. Atualmente, é membro do LMDM e pós-doutoranda na Universidade Federal do Rio de Janeiro sob a supervisão do Prof. Dr. Pedro Geraldo Pascutti."
           description_enable: true
 
     ############# Doutorandos #############
@@ -102,6 +103,20 @@ allroles:
         person_description:
         # Person description item loop
         - description: "Possui graduação em Engenharia de Computação (2010-2014) pela Universidade Católica de Petrópolis e em Tecnologia da Informação e Comunicação (2010-2013) pela FAETERJ - Petrópolis. Possui mestrado em Modelagem Computacional (2015-2017) pela Universidade Federal de Juiz de Fora. Possui experiência em Bioinformática e Biologia computactional com ênfase na área de predição de estruturas proteicas por comparação e em inteligência artificial, tendo atuado na construção de parte do workflow científico MHOLline 2.0 (www.mholline2.lncc.br). Atualmente é Doutorando em Biofísica pela Universidade Federal do Rio de Janeiro, possuindo como tema de pesquisa a criação de uma inteligência artificial para gerar um consenso dos resultados dos programas de docagem molecular."
+          description_enable: true
+       # Person item loop
+      - person_title: "MSc."
+        person_name: "José de Anchieta de Oliveira Filho"
+        person_lattes: "9745662716965944"
+        person_orcid: ""
+        person_research_gate: ""
+        person_github: ""
+        person_ig: ""
+        person_enable: true
+        person_photo: "images/team/Anchieta_Oliveira.jpg"
+        person_description:
+        # Person description item loop
+        - description: "Possui graduação em Biotecnologia (2019) e mestrado (2022) em Biotecnologia pela Universidade Federal da Paraíba (UFPB). Atualmente é discente no programa de doutorado em Biofísica do Instituto de biofísica Carlos Chagas Filho da Universidade Federal do Rio de Janeiro. Trabalha com desenho de fármacos assistido por computador na buscar por compostos para estimular a regeneração cárdica."
           description_enable: true
       # Person item loop
       - person_title: "MSc."
