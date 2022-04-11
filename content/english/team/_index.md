@@ -279,17 +279,17 @@ allroles:
           description_enable: true
       # Person item loop
       - person_title: ""
-        person_name: "Beatriz Moura"
-        person_lattes: ""
+        person_name: "Beatriz Moura da Silva"
+        person_lattes: "6611963680370400"
         person_orcid: ""
-        person_research_gate: ""
-        person_github: ""
-        person_ig: ""
+        person_research_gate: "Beatriz-Silva-69"
+        person_github: "BiazzMoura"
+        person_ig: "biazz_moura"
         person_enable: true
-        person_photo: "images/no-person.svg"
+        person_photo: "images/team/Beatriz_Moura.jpg"
         person_description:
         # Person description item loop
-        - description: ""
+        - description: "Undergraduate student in Biological Sciences: Biophysics with emphasis on Molecular Biology and Bioinformatics, at Carlos Chagas Filho Institute (IBCCF) - UFRJ. Since 2021, he has been part of the Molecular Dynamics and Modeling Laboratory (LMDM), where he carried out an internship on Machine Learning, under the guidance of Dr.Pedro H Monteiro Torres and co-supervision of MSc.Artur D. Rossi. She is currently carrying out a Scientific Initiation (SI) at LMDM in partnership with the Laboratory of Radiations in Biology (LaRBio), on \"Analysis of regulatory regions of stress-related genes in Deinococcus Radiodurans bacteria\", under the guidance of PhD. Pedro H Monteiro Torres and PhD. Claudia Lage."
           description_enable: true
       # Person item loop
       - person_title: ""

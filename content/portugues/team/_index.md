@@ -275,17 +275,17 @@ allroles:
           description_enable: true
       # Person item loop
       - person_title: ""
-        person_name: "Beatriz Moura"
-        person_lattes: ""
+        person_name: "Beatriz Moura da Silva"
+        person_lattes: "6611963680370400"
         person_orcid: ""
-        person_research_gate: ""
-        person_github: ""
-        person_ig: ""
+        person_research_gate: "Beatriz-Silva-69"
+        person_github: "BiazzMoura"
+        person_ig: "biazz_moura"
         person_enable: true
-        person_photo: "images/no-person.svg"
+        person_photo: "images/team/Beatriz_Moura.jpg"
         person_description:
         # Person description item loop
-        - description: ""
+        - description: "Aluna de graduação em Ciências Biológicas: Biofísica com ênfase em Biologia Molecular e Bioinformática, no Instituto Carlos Chagas Filho (IBCCF) - UFRJ. Desde de 2021, faz parte do Laboratório de Dinâmica e Modelagem Molecular (LMDM), onde realizou um estagio sobre Machine Learning, com orientação do Dr.Pedro H Monteiro Torres e coorientação do MSc.Artur D. Rossi. Atualmente, esta realizando uma Iniciação Cientifica (IC) no LMDM em parceria com o Laboratorio de Radiações em Biologia (LaRBio) , sobre \"Analise de regiões regulatórias de genes relacionados ao estresse, em bactérias Deinococcus Radiodurans\", sob a orientação do Dr.Pedro H Monteiro Torres e da Dra. Claudia Lage."
           description_enable: true
       # Person item loop
       - person_title: ""
