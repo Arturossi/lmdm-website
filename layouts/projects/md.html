@@ -10,4 +10,104 @@
     </div>
   </div>
 
+<!-- md_left_then_right -->
+{{ with .Params.md_left_then_right }}
+  {{ if .enable }}
+    <section class="section bg-light">
+      {{ range $i,$p := .md }}
+        {{ if .md_enable }}
+          <div class="container" id="{{ .md_id }}">
+            <div class="row justify-content-center" style="margin-bottom: 25px;">
+              {{ if modBool $i 2 }}
+                <div class="col-9">
+                  <a href="{{ .md_link | safeURL }}">
+                    <h4>{{ .title | title }}</h4>
+                  </a>
+                  {{ range .md_description }}
+                    {{ if .description_enable }}
+                      <p style="text-align: justify; text-justify: inter-word;">{{ .description | markdownify }}</p>
+                    {{ end }}
+                  {{ end }}
+                </div>
+                <div class="col-3">
+                  <a href="{{ .md_link | safeURL }}">
+                    <img style="width: 200px; height: 200px; border-radius: 5px;" src="{{ .image | relURL }}">
+                  </a>
+                </div>
+              {{ else }}
+                <div class="col-3">
+                  <a href="{{ .md_link | safeURL }}">
+                    <img style="width: 200px; height: 200px; border-radius: 5px;" src="{{ .image | relURL }}">
+                  </a>
+                </div>
+                <div class="col-9">
+                  <a href="{{ .md_link | safeURL }}">
+                    <h4>{{ .title | title }}</h4>
+                  </a>
+                  {{ range .md_description }}
+                    {{ if .description_enable }}
+                      <p style="text-align: justify; text-justify: inter-word;">{{ .description | markdownify }}</p>
+                    {{ end }}
+                  {{ end }}
+                </div>
+              {{ end }}
+            </div>
+          </div>
+        {{ end }}
+      {{ end }}
+    </section>
+  {{ end }}
+{{ end }}
+<!-- /md_left_then_right -->
+
+<!-- md_right_then_left -->
+{{ with .Params.md_right_then_left }}
+  {{ if .enable }}
+    <section class="section bg-light">
+      {{ range $i,$p := .md }}
+        {{ if .md_enable }}
+          <div class="container" id="{{ .md_id }}">
+            <div class="row justify-content-center" style="margin-bottom: 25px;">
+              {{ if modBool $i 2 }}
+                <div class="col-3">
+                  <a href="{{ .md_link | safeURL }}">
+                    <img style="width: 200px; height: 200px; border-radius: 5px;" src="{{ .image | relURL }}">
+                  </a>
+                </div>
+                <div class="col-9">
+                  <a href="{{ .md_link | safeURL }}">
+                    <h4>{{ .title | title }}</h4>
+                  </a>
+                  {{ range .md_description }}
+                    {{ if .description_enable }}
+                      <p style="text-align: justify; text-justify: inter-word;">{{ .description | markdownify }}</p>
+                    {{ end }}
+                  {{ end }}
+                </div>
+              {{ else }}
+                <div class="col-9">
+                  <a href="{{ .md_link | safeURL }}">
+                    <h4>{{ .title | title }}</h4>
+                  </a>
+                  {{ range .md_description }}
+                    {{ if .description_enable }}
+                      <p style="text-align: justify; text-justify: inter-word;">{{ .description | markdownify }}</p>
+                    {{ end }}
+                  {{ end }}
+                </div>
+                <div class="col-3">
+                  <a href="{{ .md_link | safeURL }}">
+                    <img style="width: 200px; height: 200px; border-radius: 5px;" src="{{ .image | relURL }}">
+                  </a>
+                </div>
+              {{ end }}
+            </div>
+          </div>
+        {{ end }}
+      {{ end }}
+    </section>
+  {{ end }}
+{{ end }}
+<!-- /md_right_then_left -->
+
 {{ end }}

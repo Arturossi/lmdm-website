@@ -345,7 +345,7 @@ allroles:
         person_photo: "images/team/Lilian_de_Oliveira.jpg"
         person_description:
         # Person description item loop
-        - description: "BSc. student in Biological Sciences - Biophysics with an emphasis in biotechnology at the Federal University of Rio de Janeiro (UFRJ) - Duque de Caxias campus. Currently has a Scientific Initiation student at LMDM's laboratory. Her project has on a focus the Computational Modelling of the Zika Virus (ZikV)."
+        - description: "BSc. in Biological Sciences - Biophysics with an emphasis in biotechnology at the Federal University of Rio de Janeiro (UFRJ) - Duque de Caxias campus. Currently has a Scientific Initiation student at LMDM's laboratory. Her project has on a focus the Computational Modelling of the Zika Virus (ZikV)."
           description_enable: true
       # Person item loop
       - person_title: ""

@@ -58,7 +58,7 @@
             </div>
             <div class="col-3">
               <a href="{{ .project_link | safeURL }}">
-                <img style="width: 200px; height: 200px; border-radius: 5px;" src="{{ .image | relURL }}">
+                <img style="width: auto; height: auto; max-height: 200px; max-width: 200px; border-radius: 5px;" src="{{ .image | relURL }}">
               </a>
             </div>
           </div>
@@ -89,15 +89,19 @@
                   {{ end }}
                 </div>
                 <div class="col-3">
-                  <a href="{{ .project_link | safeURL }}">
-                    <img style="width: 200px; height: 200px; border-radius: 5px;" src="{{ .image | relURL }}">
-                  </a>
+                  {{ if .image }}
+                    <a href="{{ .project_link | safeURL }}">
+                      <img style="width: auto; height: auto; max-height: 200px; max-width: 200px; border-radius: 5px;" src="{{ .image | relURL }}">
+                    </a>
+                  {{ end }}
                 </div>
               {{ else }}
                 <div class="col-3">
-                  <a href="{{ .project_link | safeURL }}">
-                    <img style="width: 200px; height: 200px; border-radius: 5px;" src="{{ .image | relURL }}">
-                  </a>
+                  {{ if .image }}
+                    <a href="{{ .project_link | safeURL }}">
+                      <img style="width: auto; height: auto; max-height: 200px; max-width: 200px; border-radius: 5px;" src="{{ .image | relURL }}">
+                    </a>
+                  {{ end }}
                 </div>
                 <div class="col-9">
                   <a href="{{ .project_link | safeURL }}">
@@ -129,9 +133,11 @@
             <div class="row justify-content-center" style="margin-bottom: 25px;">
               {{ if modBool $i 2 }}
                 <div class="col-3">
-                  <a href="{{ .project_link | safeURL }}">
-                    <img style="width: 200px; height: 200px; border-radius: 5px;" src="{{ .image | relURL }}">
-                  </a>
+                  {{ if .image }}
+                    <a href="{{ .project_link | safeURL }}">
+                      <img style="width: auto; height: auto; max-height: 200px; max-width: 200px; border-radius: 5px;" src="{{ .image | relURL }}">
+                    </a>
+                  {{ end }}
                 </div>
                 <div class="col-9">
                   <a href="{{ .project_link | safeURL }}">
@@ -155,9 +161,11 @@
                   {{ end }}
                 </div>
                 <div class="col-3">
-                  <a href="{{ .project_link | safeURL }}">
-                    <img style="width: 200px; height: 200px; border-radius: 5px;" src="{{ .image | relURL }}">
-                  </a>
+                  {{ if .image }}
+                    <a href="{{ .project_link | safeURL }}">
+                      <img style="width: auto; height: auto; max-height: 200px; max-width: 200px; border-radius: 5px;" src="{{ .image | relURL }}">
+                    </a>
+                  {{ end }}
                 </div>
               {{ end }}
             </div>
@@ -168,5 +176,140 @@
   {{ end }}
 {{ end }}
 <!-- /project_right_then_left -->
+
+
+<!-- Individual projects -->
+
+<!-- individual_left_then_right -->
+{{ with .Params.individual_left_then_right }}
+  {{ if .enable }}
+    <section class="section bg-light">
+      {{ range $i,$p := .individual }}
+        {{ if .individual_enable }}
+          <div class="container" id="{{ .individual_id }}">
+            <div class="row justify-content-center" style="margin-bottom: 25px;">
+              {{ if modBool $i 2 }}
+                <div class="col-9">
+                  <h4>{{ .title | markdownify }}</h4>
+                  {{ range .individual_description }}
+                    {{ if .description_enable }}
+                      <p style="text-align: justify; text-justify: inter-word;">{{ .description | markdownify }}</p>
+                    {{ end }}
+                  {{ end }}
+                </div>
+                <div class="col-3" style="text-align: center;">
+                  {{ if .image }}
+                    <img style="width: auto; height: auto; max-height: 200px; max-width: 200px; border-radius: 5px;" src="{{ .image | relURL }}">
+                  {{ end }}
+                </div>
+              {{ else }}
+                <div class="col-3" style="text-align: center;">
+                  {{ if .image }}
+                    <img style="width: auto; height: auto; max-height: 200px; max-width: 200px; border-radius: 5px;" src="{{ .image | relURL }}">
+                  {{ end }}
+                </div>
+                <div class="col-9">
+                  <h4>{{ .title | markdownify }}</h4>
+                  {{ range .individual_description }}
+                    {{ if .description_enable }}
+                      <p style="text-align: justify; text-justify: inter-word;">{{ .description | markdownify }}</p>
+                    {{ end }}
+                  {{ end }}
+                </div>
+              {{ end }}
+            </div>
+            <div class="row justify-content-center" style="margin-bottom: 25px;">
+              <div class="col-12">
+                <h4>{{ .team_title_text | markdownify }}</h4>
+                <div class="row flex-row flex-nowrap" style="margin-bottom: 25px; overflow-x: auto; overflow-y: hidden;">
+                  {{ range .individual_team }}
+                    <div class="col-2 justify-content-center" style="text-align: center; margin-top: 10px;">
+                      {{ if .individual_team_lattes }}
+                          <a href="http://lattes.cnpq.br/{{ .individual_team_lattes | safeURL }}" target="_blank">
+                            <img style="width: 100px; height: 100px; border-radius: 100px;" src="{{ .individual_team_photo | relURL }}">
+                            <h5>{{ .individual_team_member | markdownify }}</h5>
+                          </a>
+                        {{ else }}
+                          <img style="width: 100px; height: 100px; border-radius: 100px;" src="{{ .individual_team_photo | relURL }}">
+                          <h5>{{ .individual_team_member | markdownify }}</h5>
+                        {{ end }}
+                    </div>
+                  {{ end }}
+                </div>
+              </div>
+            </div>
+          </div>
+        {{ end }}
+      {{ end }}
+    </section>
+  {{ end }}
+{{ end }}
+<!-- /individual_left_then_right -->
+
+<!-- individual_right_then_left -->
+{{ with .Params.individual_right_then_left }}
+  {{ if .enable }}
+    <section class="section bg-light">
+      {{ range $i,$p := .individual }}
+        {{ if .individual_enable }}
+          <div class="container" id="{{ .individual_id }}">
+            <div class="row justify-content-center" style="margin-bottom: 25px;">
+              {{ if modBool $i 2 }}
+                <div class="col-3">
+                  {{ if .image }}
+                    <img style="width: auto; height: auto; max-height: 200px; max-width: 200px; border-radius: 5px;" src="{{ .image | relURL }}">
+                  {{ end }}
+                </div>
+                <div class="col-9">
+                  <h4>{{ .title | markdownify }}</h4>
+                  {{ range .individual_description }}
+                    {{ if .description_enable }}
+                      <p style="text-align: justify; text-justify: inter-word;">{{ .description | markdownify }}</p>
+                    {{ end }}
+                  {{ end }}
+                </div>
+              {{ else }}
+                <div class="col-9">
+                  <h4>{{ .title | markdownify }}</h4>
+                  {{ range .individual_description }}
+                    {{ if .description_enable }}
+                      <p style="text-align: justify; text-justify: inter-word;">{{ .description | markdownify }}</p>
+                    {{ end }}
+                  {{ end }}
+                </div>
+                <div class="col-3">
+                  {{ if .image }}
+                    <img style="width: auto; height: auto; max-height: 200px; max-width: 200px; border-radius: 5px;" src="{{ .image | relURL }}">
+                  {{ end }}
+                </div>
+              {{ end }}
+            </div>
+            <div class="row justify-content-center" style="margin-bottom: 25px;">
+              <div class="col-12">
+                <h4>{{ .team_title_text | markdownify }}</h4>
+                <div class="row flex-row flex-nowrap" style="margin-bottom: 25px; overflow-x: auto; overflow-y: hidden;">
+                  {{ range .individual_team }}
+                    <div class="col-2 justify-content-center" style="text-align: center; margin-top: 10px;">
+                      {{ if .individual_team_lattes }}
+                          <a href="http://lattes.cnpq.br/{{ .individual_team_lattes | safeURL }}" target="_blank">
+                            <img style="width: 100px; height: 100px; border-radius: 100px;" src="{{ .individual_team_photo | relURL }}">
+                            <h5>{{ .individual_team_member | markdownify }}</h5>
+                          </a>
+                        {{ else }}
+                          <img style="width: 100px; height: 100px; border-radius: 100px;" src="{{ .individual_team_photo | relURL }}">
+                          <h5>{{ .individual_team_member | markdownify }}</h5>
+                        {{ end }}
+                    </div>
+                  {{ end }}
+                </div>
+              </div>
+            </div>
+          </div>
+        {{ end }}
+      {{ end }}
+    </section>
+  {{ end }}
+{{ end }}
+<!-- /individual_right_then_left -->
 
 {{ end }}

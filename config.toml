@@ -7,4 +7,4 @@ DefaultContentLanguage = "pt"
 [params]
     author = "Artur Duque Rossi"
     favicon = "/images/favicon.ico" # Path to favicon file
-    css = ["css/main.css"]
+    custom_css = ["css/main.css"]

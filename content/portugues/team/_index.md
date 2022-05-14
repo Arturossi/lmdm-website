@@ -341,7 +341,7 @@ allroles:
         person_photo: "images/team/Lilian_de_Oliveira.jpg"
         person_description:
         # Person description item loop
-        - description: "Discente de Ciências Biológicas - Biofísica com ênfase em Biotecnologia na Universidade Federal do Rio de Janeiro (UFRJ) no campus de Duque de Caxias. Atualmente é aluna de Iniciação Científica no LMDM, com o projeto focado em Modelagem Computacional do Vírus Zika (ZikV)."
+        - description: "Bacharel em Ciências Biológicas - Biofísica com ênfase em Biotecnologia na Universidade Federal do Rio de Janeiro (UFRJ) no campus de Duque de Caxias. Atualmente é aluna de Iniciação Científica no LMDM, com o projeto focado em Modelagem Computacional do Vírus Zika (ZikV)."
           description_enable: true
       # Person item loop
       - person_title: ""
