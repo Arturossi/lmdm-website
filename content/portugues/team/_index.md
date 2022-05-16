@@ -211,20 +211,6 @@ allroles:
           description_enable: true
       # Person item loop
       - person_title: "BSc."
-        person_name: "Nathalia"
-        person_lattes: ""
-        person_orcid: ""
-        person_research_gate: ""
-        person_github: ""
-        person_ig: ""
-        person_enable: true
-        person_photo: "images/no-person.svg"
-        person_description:
-        # Person description item loop
-        - description: ""
-          description_enable: true
-      # Person item loop
-      - person_title: "BSc."
         person_name: "Samuel de Araujo"
         person_lattes: ""
         person_orcid: ""
@@ -330,32 +316,18 @@ allroles:
         - description: ""
           description_enable: true
       # Person item loop
-      - person_title: ""
+      - person_title: "BSc."
         person_name: "Lilian Mendonça Alves de Oliveira"
         person_lattes: "3685065761835496"
         person_orcid: "0000-0002-6802-0361"
         person_research_gate: ""
-        person_github: ""
+        person_github: "lilikaoli"
         person_ig: "lilian.zinha"
         person_enable: true
         person_photo: "images/team/Lilian_de_Oliveira.jpg"
         person_description:
         # Person description item loop
         - description: "Bacharel em Ciências Biológicas - Biofísica com ênfase em Biotecnologia na Universidade Federal do Rio de Janeiro (UFRJ) no campus de Duque de Caxias. Atualmente é aluna de Iniciação Científica no LMDM, com o projeto focado em Modelagem Computacional do Vírus Zika (ZikV)."
-          description_enable: true
-      # Person item loop
-      - person_title: ""
-        person_name: "Nilton Silva"
-        person_lattes: ""
-        person_orcid: ""
-        person_research_gate: ""
-        person_github: ""
-        person_ig: ""
-        person_enable: true
-        person_photo: "images/no-person.svg"
-        person_description:
-        # Person description item loop
-        - description: ""
           description_enable: true
         
     ############# Colaboradores #############
@@ -379,4 +351,33 @@ allroles:
         # Person description item loop
         - description: "Possui Bacharelado em Fisica pela Universidade Federal do Rio Grande do Sul (1971), Mestrado em Física pelo Centro Brasileiro de Pesquisas Físicas (1974) e Doutorado em Ciências (Física) pela Universite Libre de Bruxelles, Bélgica (1980). Atualmente é Professor Titular do Instituto de Biofísica Carlos Chagas Filho da Universidade Federal do Rio de Janeiro. Tem experiência nas áreas de Física, Físico-Química e Biofísica, com ênfase em Biofísica Molecular, Celular e de Sistema, atuando principalmente nos seguintes temas: sistemas biológicos, biologia estrutural, microscopia de força atômica, modelagem molecular, bioinformática, genômica e proteômica."
           description_enable: true
+      # Person item loop
+      - person_title: "BSc."
+        person_name: "Nathalia"
+        person_lattes: ""
+        person_orcid: ""
+        person_research_gate: ""
+        person_github: ""
+        person_ig: ""
+        person_enable: true
+        person_photo: "images/no-person.svg"
+        person_description:
+        # Person description item loop
+        - description: ""
+          description_enable: true
+      # Person item loop
+      - person_title: "BSc."
+        person_name: "Nilton Silva"
+        person_lattes: ""
+        person_orcid: ""
+        person_research_gate: ""
+        person_github: ""
+        person_ig: ""
+        person_enable: true
+        person_photo: "images/no-person.svg"
+        person_description:
+        # Person description item loop
+        - description: ""
+          description_enable: true
+
 ---
