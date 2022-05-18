@@ -187,19 +187,19 @@ papers:
     - paper_title : "Allosteric regulation of the Plasmodium falciparum cysteine protease falcipain-2 by heme"
       paper_enable : true
       paper_journal : "Archives of Biochemistry and Biophysics (Print)"
-      paper_author : "MARQUES, AF; DA SILVA FIGUEIREDO CELESTINO GOMES, PRISCILA; OLIVEIRA, PL; ROSENTHAL, PJ; PASCUTTI, PG; LIMA, LMT"
+      paper_author : "MARQUES, A.F.; GOMES, P.S.F.C; OLIVEIRA, P.L.; ROSENTHAL, P.J.; PASCUTTI, P.G.; LIMA, L.M.T."
       paper_link : ""
 
     - paper_title : "Insights into the Interactions of Fasciola hepatica Cathepsin L3 with a Substrate and Potential Novel Inhibitors through In Silico Approaches"
       paper_enable : true
       paper_journal : "PLoS Neglected Tropical Diseases (Online)"
-      paper_author : "HERNÁNDEZ ALVAREZ, LILIAN; NARANJO FELICIANO, DANY; HERNÁNDEZ GONZÁLEZ, JORGE ENRIQUE; DE OLIVEIRA SOARES, ROSEMBERG; BARRETO GOMES, DIEGO ENRY; PASCUTTI, PG"
+      paper_author : "ALVAREZ, L.H.; FELICIANO, D.N.; GONZÁLEZ, J.E.H.; SOARES, R.O.; GOMES, D.E.B.; PASCUTTI, P.G."
       paper_link : "http://dx.doi.org/10.1371/journal.pntd.0003759"
 
     - paper_title : "Molecular Dynamics Simulations of the Free and Inhibitor-Bound Cruzain Systems in Aqueous Solvent: Insights on the Inhibition Mechanism in Acidic pH"
       paper_enable : true
       paper_journal : "Journal of Biomolecular Structure & Dynamics"
-      paper_author : "HOELZ, LUCAS VILLAS BÔAS; LEAL, VINÍCIUS FONSECA; RODRIGUES, CARLOS RANGEL; PASCUTTI, PG; Albuquerque, Magaly Girão; MURI, ESTELA MARIS FREITAS; DIAS, LUIZA ROSARIA SOUSA"
+      paper_author : "HOELZ, L.V.B.; LEAL, V.F.; RODRIGUES, C.R.; PASCUTTI, P.G.; ALBUQUERQUE, M.G.; MURI, E.M.F.; DIAS, L.R.S."
       paper_link : "http://dx.doi.org/10.1080/07391102.2015.1100139"
 
   - year_title : "2014"
@@ -208,38 +208,38 @@ papers:
     - paper_title : "Anti-Prion Activity of a Panel of Aromatic Chemical Compounds: In Vitro and In Silico Approaches"
       paper_enable : true
       paper_journal : "Plos One"
-      paper_author : "FERREIRA, NATALIA C; HUGHSON, ANDREW G; RAYMOND, LYNNE D; PASCUTTI, PG; CAUGHEY, BYRON; CORDEIRO, YRAIMA; MARQUES, ICARO A; CONCEIÇÃO, WESLEY A; MACEDO, BRUNO; MACHADO, CLARICE S; MASCARELLO, ALESSANDRA; CHIARADIA-DELATORRE, LOUISE DOMENEGHINI; YUNES, ROSENDO AUGUSTO; NUNES, RICARDO JOSÉ"
+      paper_author : "FERREIRA, N.C.; HUGHSON, A.G.; RAYMOND, L.D.; PASCUTTI, P.G.; CAUGHEY, B.; CORDEIRO, Y.; MARQUES, I.A.; CONCEIÇÃO, W.A.; MACEDO, B.; MACHADO, C.S.; MASCARELLO, A.; CHIARADIA-DELATORRE, L.D.; YUNES, R.A.; NUNES, R.J."
       paper_link : "http://dx.doi.org/10.1371/journal.pone.0084531"
+
+    - paper_title : "Conformational Changes in Human Hsp70 Induced by High Hydrostatic Pressure Produce Oligomers with ATPase Activity but without Chaperone Activity"
+      paper_enable : true
+      paper_journal : "BIOCHEMISTRY"
+      paper_author : "ARAUJO, T.L.S.; BORGES, J.C.; RAMOS, C.H.; MEYER-FERNANDES, J.R.; JUNIOR, R.S.O.; PASCUTTI, P.G.; FOGUEL, D.; PALHANO, F.L."
+      paper_link : "http://dx.doi.org/10.1021/bi500004q"
 
     - paper_title : "Differential Effects of CSF-1R D802V and KIT D816V Homologous Mutations on Receptor Tertiary Structure and Allosteric Communication"
       paper_enable : true
       paper_journal : "Plos One"
-      paper_author : "DA SILVA FIGUEIREDO CELESTINO GOMES, PRISCILA; PANEL, NICOLAS; LAINE, ELODIE; PASCUTTI, PG; SOLARY, ERIC; TCHERTANOV, LUBA"
+      paper_author : "GOMES, P.S.F.C.; PANEL, N.; LAINE, E.; PASCUTTI, P.G.; SOLARY, E.; TCHERTANOV, L."
       paper_link : "http://dx.doi.org/10.1371/journal.pone.0097519"
-
-    - paper_title : "Structural and Functional Analysis of a Platelet-Activating Lysophosphatidylcholine of Trypanosoma cruzi"
-      paper_enable : true
-      paper_journal : "PLoS Neglected Tropical Diseases (Online)"
-      paper_author : "Gazos-Lopes, F; SOUTO-PADRON, T; MONTEIRO, RQ; LOPES, AH; ALMEIDA, IC; OLIVEIRA, MM; HOELZ, LVB; VIEIRA, DP; MARQUES, AF; NAKAYASU, ES; GOMES, MT; SALLOUM, NG; PASCUTTI, PG"
-      paper_link : "http://dx.doi.org/10.1371/journal.pntd.0003077"
 
     - paper_title : "Impact of M36I polymorphism on the interaction of HIV-1 protease with its substrates: insights from molecular dynamics"
       paper_enable : true
       paper_journal : "BMC Genomics"
-      paper_author : "Costa, Mauricio GS; BENETTI-BARBOSA, TÉCIO G; DESDOUITS, NATHAN; BLONDEL, ARNAUD; BISCH, PM; PASCUTTI, PG; Batista, Paulo R"
+      paper_author : "COSTA, M.G.S.; BENETTI-BARBOSA, T.G.; DESDOUITS, N.; BLONDEL, A.; BISCH, P.M.; PASCUTTI, P.G.; BATISTA, P.R."
       paper_link : "http://dx.doi.org/10.1186/1471-2164-15-s7-s5"
 
     - paper_title : "New treatments for Chagas disease and the relationship between chagasic patients and cancers"
       paper_enable : true
       paper_journal : "Cancer Research Journal"
-      paper_author : "OLIVEIRA, VM; MENDES, LT; ALMEIDA, DJ; Hoelz, Lucas VB; Torres, PHM; PASCUTTI, PG; FREITAS, GBL"
+      paper_author : "OLIVEIRA, V.M.; MENDES, L.T.; ALMEIDA, D.J.; HOELZ, L.V.B.; TORRES, P.H.M.; PASCUTTI, P.G.; FREITAS, G.B.L."
       paper_link : ""
 
-    - paper_title : "Conformational Changes in Human Hsp70 Induced by High Hydrostatic Pressure Produce Oligomers with ATPase Activity but without Chaperone Activity"
+    - paper_title : "Structural and Functional Analysis of a Platelet-Activating Lysophosphatidylcholine of Trypanosoma cruzi"
       paper_enable : true
-      paper_journal : "BIOCHEMISTRY"
-      paper_author : "ARAUJO, THAÍS LS; BORGES, JULIO CESAR; RAMOS, CARLOS H; MEYER-FERNANDES, JOSÉ ROBERTO; OLIVEIRA JÚNIOR, REINALDO S; PASCUTTI, PG; FOGUEL, DEBORA; PALHANO, FERNANDO L"
-      paper_link : "http://dx.doi.org/10.1021/bi500004q"
+      paper_journal : "PLoS Neglected Tropical Diseases (Online)"
+      paper_author : "GAZOS-LOPOES, F.; SOUTO-PADRON, T.; MONTEIRO, R.Q.; LOPES, A.H.; ALMEIDA, I.C.; OLIVEIRA, M.M.; HOELZ, L.V.B.; VIEIRA, D.P.; MARQUES, A.F.; NAKAYASU, E.S.; GOMES, M.T.; SALLOUM, N.G.; PASCUTTI, P.G."
+      paper_link : "http://dx.doi.org/10.1371/journal.pntd.0003077"
 
   - year_title : "2013"
     year_enable : true
@@ -247,110 +247,110 @@ papers:
     - paper_title : "Desenvolvimento de ferramentas multimidiáticas para o ensino de  bioquímica"
       paper_enable : true
       paper_journal : "Revista Práxis (Volta Redonda.Impresso)"
-      paper_author : "Dias, G S; Oliveira, F S; BIANCONI, ML; PASCUTTI, PG"
+      paper_author : "DIAS, G.S.; OLIVEIRA, F.S.; BIANCONI, M.L.; PASCUTTI, P.G."
       paper_link : ""
 
     - paper_title : "Receptores Acoplados à Proteína G"
       paper_enable : true
       paper_journal : "Revista Virtual de Química"
-      paper_author : "Hoelz, Lucas VB; LFREITAS, GB; Torres, PHM; Fernandes, TVA; SILVA, JFM; Albuquerque, MG; PASCUTTI, PG; Alencastro R B"
+      paper_author : "HOELZ, L.V.B.; FREITAS, G.B.; TORRES, P.H.M.; FERNANDES, T.V.A.; SILVA, J.F.M.; ALBURQUERQUE, M.G.; PASCUTTI, P.G.; Alencastro R B"
       paper_link : ""
 
     - paper_title : "Structural analysis of Pla protein from the biological warfare agent Yersinia pestis</i> : docking and molecular dynamics of interactions with the mammalian plasminogen system"
       paper_enable : true
       paper_journal : "JOURNAL OF BIOMOLECULAR STRUCTURE & DYNAMICS"
-      paper_author : "RUBACK, EDUARDO; LOBO, LEANDRO ARAUJO; FRANÇA, TANOS CELMAR COSTA; PASCUTTI, PG"
+      paper_author : "RUBACK, E.; LOBO, L.A.; FRANÇA, T.C.C.; PASCUTTI, P.G."
       paper_link : "http://dx.doi.org/10.1080/07391102.2012.703072"
 
   - year_title : "2012"
     year_enable : true
     paper :
+    - paper_title : "GSAFold: A new application of GSA to protein structure prediction"
+      paper_enable : true
+      paper_journal : "Proteins (Print)"
+      paper_author : "MELO, M.C.R.; BERNARDI, R.C.; FERNANDES, T.V.A.; PASCUTTI, P.G."
+      paper_link : "http://dx.doi.org/10.1002/prot.24120"
+
+    - paper_title : "Hybrid QM/MM Molecular Dynamics Study of Benzocaine in a Membrane Environment: How Does a Quantum Mechanical Treatment of Both Anesthetic and Lipids Affect Their Interaction"
+      paper_enable : true
+      paper_journal : "Journal of Chemical Theory and Computation"
+      paper_author : "BERNARDI, R.C.; PASCUTTI, P.G."
+      paper_link : "http://dx.doi.org/10.1021/ct300213u"
+
+    - paper_title : "Molecular Dynamics Simulations of Peptide Inhibitors Complexed With Trypanosoma cruzi</i> Trypanothione Reductase"
+      paper_enable : true
+      paper_journal : "Chemical Biology & Drug Design"
+      paper_author : "PITA, S.S.R.; BATISTA, P.R.; ALBUQUERQUE, M.G.; PASCUTTI, P.G."
+      paper_link : "http://dx.doi.org/10.1111/j.1747-0285.2012.01429.x"
+
+    - paper_title : "Pharmacophore Analysis of Trypanosoma cruzi Trypanothione Reductase  (TR) Complexed with Peptide Mimetic Inhibitors"
+      paper_enable : true
+      paper_journal : "Revista Virtual de Química"
+      paper_author : "PITA, S.S.R.; PASCUTTI, P.G."
+      paper_link : ""
+
     - paper_title : "The role of helices 5 and 6 on the human β 1-adrenoceptor activation mechanism"
       paper_enable : true
       paper_journal : "Molecular Simulation (Print)"
-      paper_author : "Hoelz, Lucas VB; Ribeiro, André AST; Bernardi, Rafael C; Horta, Bruno AC; Albuquerque, Magaly G; da Silva, Joaquim FM; PASCUTTI, PG; de Alencastro, Ricardo B"
+      paper_author : "HOELZ, L.V.B.; RIBEIRO, A.A.S.T.; BERNARDI, R.C.; HORTA, B.A.C.; ALBUQUERQUE, M.G.; DA SILVA, J.F.M.; PASCUTTI, P.G.; DE ALENCASTRO, R.B."
       paper_link : "http://dx.doi.org/10.1080/08927022.2011.616501"
 
     - paper_title : "The Structural Dynamics of the Flavivirus Fusion Peptide?Membrane Interaction"
       paper_enable : true
       paper_journal : "Plos One"
-      paper_author : "MENDES, YS; Oliveira, Andrea C; Alves, NS; Souza, Theo LF; SOUZA JR, IP; Bianconi, MLucia; BERNARDI, RC; PASCUTTI, PG; Silva, Jerson L; SILVA, JL; GOMES, AMO"
+      paper_author : "MENDES, Y.S.; OLIVEIRA, A.C.; ALVES, N.S.; SOUZA, T.L.F.; SOUZA JR, I.P.; BIANCONI, M.L.; BERNARDI, R.C.; PASCUTTI, P.G.; SILVA, J.L.; SILVA, J.L.; GOMES, A.M.O."
       paper_link : "http://dx.doi.org/10.1371/journal.pone.0047596"
-
-    - paper_title : "Pharmacophore Analysis of Trypanosoma cruzi Trypanothione Reductase  (TR) Complexed with Peptide Mimetic Inhibitors"
-      paper_enable : true
-      paper_journal : "Revista Virtual de Química"
-      paper_author : "PITA, SSR; PASCUTTI, PG"
-      paper_link : ""
-
-    - paper_title : "GSAFold: A new application of GSA to protein structure prediction"
-      paper_enable : true
-      paper_journal : "Proteins (Print)"
-      paper_author : "MELO, MARCELO CR; Bernardi, Rafael C; FERNANDES, TÁCIO VA; PASCUTTI, PG"
-      paper_link : "http://dx.doi.org/10.1002/prot.24120"
-
-    - paper_title : "Molecular Dynamics Simulations of Peptide Inhibitors Complexed With Trypanosoma cruzi</i> Trypanothione Reductase"
-      paper_enable : true
-      paper_journal : "Chemical Biology & Drug Design"
-      paper_author : "da Rocha Pita, Samuel Silva; Batista, Paulo Ricardo; Albuquerque, Magaly Girão; PASCUTTI, PG"
-      paper_link : "http://dx.doi.org/10.1111/j.1747-0285.2012.01429.x"
-
-    - paper_title : "Hybrid QM/MM Molecular Dynamics Study of Benzocaine in a Membrane Environment: How Does a Quantum Mechanical Treatment of Both Anesthetic and Lipids Affect Their Interaction"
-      paper_enable : true
-      paper_journal : "Journal of Chemical Theory and Computation"
-      paper_author : "Bernardi, Rafael C; PASCUTTI, PG"
-      paper_link : "http://dx.doi.org/10.1021/ct300213u"
 
   - year_title : "2011"
     year_enable : true
     paper :
-    - paper_title : "Molecular dynamics simulations and QM/MM studies of the reactivation by 2-PAM of tabun inhibited human acethylcolinesterase"
-      paper_enable : true
-      paper_journal : "Journal of the Brazilian Chemical Society (Impresso)"
-      paper_author : "Gonçalves, Arlan da Silva; França, Tanos CC; Figueroa-Villar, José D; PASCUTTI, PG"
-      paper_link : "http://dx.doi.org/10.1590/S0103-50532011000100021"
-
-    - paper_title : "Dynamical behaviour of the human ? -adrenoceptor under agonist binding"
-      paper_enable : true
-      paper_journal : "Molecular Simulation (Print)"
-      paper_author : "Hoelz, Lucas VB; Bernardi, Rafael C; Horta, Bruno AC; Araújo, Jocley Q; Albuquerque, Magaly G; da Silva, Joaquim FM; PASCUTTI, PG; de Alencastro, Ricardo B"
-      paper_link : "http://dx.doi.org/10.1080/08927022.2011.572167"
-
     - paper_title : "Alvos Terapêuticos na Doença de Chagas: a Tripanotiona Redutase como Foco"
       paper_enable : true
       paper_journal : "Revista Virtual de Química"
-      paper_author : "PITA, SSR; PASCUTTI, PG"
+      paper_author : "PITA, S.S.R.; PASCUTTI, P.G."
       paper_link : ""
+
+    - paper_title : "Computational Perspectives into Plasmepsins Structure-Function Relationship: Implications to Inhibitors Design"
+      paper_enable : true
+      paper_journal : "JOURNAL OF TROPICAL MEDICINE"
+      paper_author : "GIL L., A.; VALIENTE, P.A.; PASCUTTI, P.G.; PONS, T."
+      paper_link : "http://dx.doi.org/10.1155/2011/657483"
 
     - paper_title : "Conformational Variability of Organophosphorus Hydrolase upon Soman and Paraoxon Binding"
       paper_enable : true
       paper_journal : "Journal of Physical Chemistry. B"
-      paper_author : "Gomes, Diego EB; Lins, Roberto D; PASCUTTI, PG; Lei, Chenghong; Soares, Thereza A"
+      paper_author : "GOMES, D.E.B.; LINS, R.D.; PASCUTTI, P.G.; LEI, C.; SOARES, T.A."
       paper_link : "http://dx.doi.org/10.1021/jp208787g"
+
+    - paper_title : "Dynamical behaviour of the human ? -adrenoceptor under agonist binding"
+      paper_enable : true
+      paper_journal : "Molecular Simulation (Print)"
+      paper_author : "HOELZ, L.V.B.; BERNARDI, R.C.; HORTA, B.A.C.; ARAÚJO, J.Q.; ALBUQUERQUE, M.G.; DA SILVA, J.F.M.; PASCUTTI, P.G.; DE ALENCASTRO, R.B."
+      paper_link : "http://dx.doi.org/10.1080/08927022.2011.572167"
 
     - paper_title : "Free Energy Profiles along Consensus Normal Modes Provide Insight into HIV-1 Protease Flap Opening"
       paper_enable : true
       paper_journal : "Journal of Chemical Theory and Computation"
-      paper_author : "Batista, Paulo R; Pandey, Gaurav; PASCUTTI, PG; Bisch, Paulo M; Perahia, David; Robert, Charles H"
+      paper_author : "BATISTA, P.R.; PANDEY, G.; PASCUTTI, P.G.; BISCH, P.M.; PERAHIA, D.; ROBERT, C.H."
       paper_link : "http://dx.doi.org/10.1021/ct200237u"
 
     - paper_title : "High temperatures enhance cooperative motions between CBM and catalytic domains of a thermostable cellulase: mechanism insights from essential dynamics"
       paper_enable : true
       paper_journal : "PCCP. Physical Chemistry Chemical Physics (Print)"
-      paper_author : "Batista, Paulo Ricardo; de Souza Costa, Mauricio Garcia; PASCUTTI, PG; Bisch, Paulo Mascarello; de Souza, Wanderley"
+      paper_author : "BATISTA, P.R.; Costa, M.G.S.; PASCUTTI, P.G.; BISCH, P.M.; DE SOUZA, W."
       paper_link : "http://dx.doi.org/10.1039/c0cp02697b"
+
+    - paper_title : "Molecular dynamics simulations and QM/MM studies of the reactivation by 2-PAM of tabun inhibited human acethylcolinesterase"
+      paper_enable : true
+      paper_journal : "Journal of the Brazilian Chemical Society (Impresso)"
+      paper_author : "GONÇALVES, A.S.; FRANÇA, T.C.C.; FIGUEROA-VILLAR, J.D.; PASCUTTI, P.G."
+      paper_link : "http://dx.doi.org/10.1590/S0103-50532011000100021"
 
     - paper_title : "Structural analysis of the N-terminal fragment of the antiangiogenic protein endostatin: A molecular dynamics study"
       paper_enable : true
       paper_journal : "Proteins (Print)"
-      paper_author : "Monteiro Torres, Pedro Henrique; Limaverde Soares Costa Sousa, Gabriel; PASCUTTI, PG"
+      paper_author : "TORRES, P.H.; Sousa, G.L.S.C.; PASCUTTI, P.G."
       paper_link : "http://dx.doi.org/10.1002/prot.23096"
-
-    - paper_title : "Computational Perspectives into Plasmepsins Structure-Function Relationship: Implications to Inhibitors Design"
-      paper_enable : true
-      paper_journal : "JOURNAL OF TROPICAL MEDICINE"
-      paper_author : "Gil L, Alejandro; Valiente, Pedro A; PASCUTTI, PG; Pons, Tirso"
-      paper_link : "http://dx.doi.org/10.1155/2011/657483"
 
   - year_title : "2010"
     year_enable : true
