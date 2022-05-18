@@ -16,86 +16,86 @@ papers:
     - paper_title : "Genetic diversity of the melanocortin-1 receptor in an admixed population of Rio de Janeiro: Structural and functional impacts of Cys35Tyr variant"
       paper_enable : true
       paper_journal : "PLoS One"
-      paper_author : "NEITZKE-MONTINELLI, VANESSA; DA SILVA FIGUEIREDO CELESTINO GOMES, PRISCILA; PASCUTTI, PG; MOURA-NETO, RODRIGO S; SILVA, ROSANE"
+      paper_author : "NEITZKE-MONTINELLI, V.; GOMES, P.S.F.C.; PASCUTTI, P.G.; MOURA-NETO, R.S.; SILVA, R."
       paper_link : "http://dx.doi.org/10.1371/journal.pone.0267286"
 
   - year_title : "2021"
     year_enable : true
     paper :
-    - paper_title : "Improving Blind Docking in DOCK6 through an Automated Preliminary Fragment Probing Strategy"
+    - paper_title : "A molecular docking integrated platform for virtual screening of bioactive compounds"
       paper_enable : true
-      paper_journal : "MOLECULES"
-      paper_author : "JOFILY, P; PASCUTTI, PG; TORRES, PHM"
-      paper_link : "http://dx.doi.org/10.3390/molecules26051224"
-      
-    - paper_title : "ProtCHOIR: a tool for proteome-scale generation of homo-oligomers"
-      paper_enable : true
-      paper_journal : "Briefings in Bioinformatics"
-      paper_author : "Torres, PHM; Rossi, AD; Blundell, TL"
-      paper_link : "http://dx.doi.org/10.1093/bib/bbab182"
-
-    - paper_title : "Computational study on the allosteric mechanism of Leishmania major IF4E-1 by 4E-interacting protein-1: Unravelling the determinants of m7GTP cap recognition"
-      paper_enable : true
-      paper_journal : "COMPUTATIONAL AND STRUCTURAL BIOTECHNOLOGY JOURNAL"
-      paper_author : "ALVAREZ, LILIAN HERNÁNDEZ; OLIVEIRA, ANTONIO B; GONZÁLEZ, JORGE ENRIQUE HERNÁNDEZ; CHAHINE, JORGE; PASCUTTI, PG; DE ARAUJO, ALEXANDRE SUMAN; DE SOUZA, FÁTIMA PEREIRA"
-      paper_link : "http://dx.doi.org/10.1016/j.csbj.2021.03.036"
-
-    - paper_title : "The p38 MAPK Inhibitors and Their Role in Inflammatory Diseases"
-      paper_enable : true
-      paper_journal : "ChemistrySelect"
-      paper_author : "MACHADO, THAMIRES R; MACHADO, THAYNÁ, R; PASCUTTI, PG"
-      paper_link : "http://dx.doi.org/10.1111/mmi.14778"
+      paper_journal : "BIOTECNOLOGÍA APLICADA"
+      paper_author : "NARANJO-FELICIANO, D; ALVAREZ, L.I.; RAMOS, R.C.; ALVAREZ, L.H.; FIGUEROA, J.B.; GOMES, D.E.B.; VALIENTE, P.A.; CALVET, H.; PASCUTTI, P.G."
+      paper_link : ""
 
     - paper_title : "A novel receptor for platelet-activating factor and lysophosphatidylcholine in <i>Trypanosoma cruzi</i>"
       paper_enable : true
       paper_journal : "MOLECULAR MICROBIOLOGY"
-      paper_author : "COELHO, FELIPE S; FRAGOSO, STENIO P; LOPES, ANGELA H; OLIVEIRA, MAURICIO M; VIEIRA, DANIELLE P; TORRES, PEDRO HM; MOREIRA, ISABEL CF; MARTINS'DUARTE, ERICA S; GONÇALVES, INÊS C; CABANELAS, ADRIANA; PASCUTTI, PG"
+      paper_author : "COELHO, F.S.; FRAGOSO, S.P.; LOPES, A.H.; OLIVEIRA, M.M.; VIEIRA, D.P.; TORRES, P.H.M.; MOREIRA, I.C.F.; MARTINS-DUARTE, E.S.; GONÇALVES, I.C.; CABANELAS, A.; PASCUTTI, P.G."
       paper_link : "http://dx.doi.org/10.1111/mmi.14778"
+
+    - paper_title : "Computational study on the allosteric mechanism of Leishmania major IF4E-1 by 4E-interacting protein-1: Unravelling the determinants of m7GTP cap recognition"
+      paper_enable : true
+      paper_journal : "COMPUTATIONAL AND STRUCTURAL BIOTECHNOLOGY JOURNAL"
+      paper_author : "ALVAREZ, L.H.; OLIVEIRA, A.B.; GONZÁLEZ, J.E.H.; CHAHINE, J.; PASCUTTI, P.G.; DE ARAUJO, A.S.; DE SOUZA, F.P."
+      paper_link : "http://dx.doi.org/10.1016/j.csbj.2021.03.036"
+
+    - paper_title : "Improving Blind Docking in DOCK6 through an Automated Preliminary Fragment Probing Strategy"
+      paper_enable : true
+      paper_journal : "MOLECULES"
+      paper_author : "JOFILY, P.; PASCUTTI, P.G.; TORRES, P.H.M."
+      paper_link : "http://dx.doi.org/10.3390/molecules26051224"
 
     - paper_title : "In silico identification of noncompetitive inhibitors targeting an uncharacterized allosteric site of falcipain-2"
       paper_enable : true
       paper_journal : "JOURNAL OF COMPUTER-AIDED MOLECULAR DESIGN"
-      paper_author : "HERNÁNDEZ GONZÁLEZ, JORGE ENRIQUE; SALAS-SARDUY, EMIR; HERNÁNDEZ ALVAREZ, LILIAN; BARRETO GOMES, DIEGO ENRY; PASCUTTI, PG; OOSTENBRINK, CHRIS; LEITE, VITOR BP"
+      paper_author : "GONZÁLEZ, J.E.H.; SALAS-SARDUY, E.; ALVAREZ, L.H.; GOMES, D.E.B.; PASCUTTI, P.G; OOSTENBRINK, C.; LEITE, V.B.P"
       paper_link : "http://dx.doi.org/10.1007/s10822-021-00420-7"
-
-    - paper_title : "A molecular docking integrated platform for virtual screening of bioactive compounds"
+      
+    - paper_title : "ProtCHOIR: a tool for proteome-scale generation of homo-oligomers"
       paper_enable : true
-      paper_journal : "BIOTECNOLOGÍA APLICADA"
-      paper_author : "Naranjo-Feliciano, D; ALVAREZ, LI; RAMOS, RC; HERNANDEZ ALVAREZ, LILIAN; FIGUEROA, JB; Gomes, Diego EB; VALIENTE, PEDRO A; CALVET, HAC; PASCUTTI, PG"
-      paper_link : ""
+      paper_journal : "Briefings in Bioinformatics"
+      paper_author : "TORRES, P.H.M.; ROSSI, A.D.; BLUNDELL, T.L."
+      paper_link : "http://dx.doi.org/10.1093/bib/bbab182"
+
+    - paper_title : "The p38 MAPK Inhibitors and Their Role in Inflammatory Diseases"
+      paper_enable : true
+      paper_journal : "ChemistrySelect"
+      paper_author : "MACHADO, T.R.; MACHADO, T.R.; PASCUTTI, P.G."
+      paper_link : " https://dx.doi.org/10.1002/slct.202100406"
 
   - year_title : "2020"
     year_enable : true
     paper :
-    - paper_title : "Pisum sativum Defensin 1 Eradicates Mouse Metastatic Lung Nodules from B16F10 Melanoma Cells"
+    - paper_title : "Enzymatic and structural properties of human glutamine:fructose-6-phosphate amidotransferase 2 (hGFAT2)"
       paper_enable : true
-      paper_journal : "INTERNATIONAL JOURNAL OF MOLECULAR SCIENCES"
-      paper_author : "AMARAL, VIRGINIA SARA GRANCIERI DO; MONTEIRO, ROBSON Q; KURTENBACH, ELEONORA; SANTOS, STEPHANIE ALEXIA CRISTINA SILVA; DE ANDRADE, PAULA CAVALCANTE; NOWATZKI, JENIFER; JÚNIOR, NILTON SILVA; DE MEDEIROS, LUCIANO NEVES; GITIRANA, LYCIA BRITO; PASCUTTI, PG; ALMEIDA, VITOR H"
-      paper_link : "http://dx.doi.org/10.3390/ijms21082662"
+      paper_journal : "JOURNAL OF BIOLOGICAL CHEMISTRY"
+      paper_author : "OLIVEIRA, I.A.; ALLONSO, D.; FERNANDES, T.V.A.; LUCENA, D.M.S.; VENTURA, G.T.; DIAS, W.B.; MOHANA-BORGES, R.; PASCUTTI, P.G.; TODESCHINI, A.R."
+      paper_link : "http://dx.doi.org/10.1074/jbc.ra120.015189"
 
     - paper_title : "Physicochemical and structural properties of lunasin revealed by spectroscopic, chromatographic and molecular dynamics approaches"
       paper_enable : true
       paper_journal : "BIOCHIMICA ET BIOPHYSICA ACTA-PROTEINS AND PROTEOMICS"
-      paper_author : "ALVES DE SOUZA, STEPHANNY MIRANDA; Fernandes, Tácio Vinício Amorim; KALUME, DÁRIO ELUAN; T R LIMA, LUÍS MAURÍCIO; PASCUTTI, PG; de Souza, Theo Luiz Ferraz"
+      paper_author : "DE SOUZA, S.M.A.; FERNANDES, T.V.A.; KALUME, D.E.; LIMA, L.M.T.R.; PASCUTTI, P.G.; DE SOUZA, T.L.F."
       paper_link : "http://dx.doi.org/10.1016/j.bbapap.2020.140440"
+
+    - paper_title : "Pisum sativum Defensin 1 Eradicates Mouse Metastatic Lung Nodules from B16F10 Melanoma Cells"
+      paper_enable : true
+      paper_journal : "INTERNATIONAL JOURNAL OF MOLECULAR SCIENCES"
+      paper_author : "DO AMARAL, V.S.G.; MONTEIRO, R.Q.; KURTENBACH, E.; SANTOS, S.A.C.S.; DE ANDRADE, P.C.; NOWATZKI, J.; JÚNIOR, N.S.; DE MEDEIROS, L.N.; GITIRANA, L.B.; PASCUTTI, P.G.; ALMEIDA, V.H."
+      paper_link : "http://dx.doi.org/10.3390/ijms21082662"
 
     - paper_title : "Theoretical studies and NMR assay of coumarins and neoflavanones derivatives as potential inhibitors of acetylcholinesterase"
       paper_enable : true
       paper_journal : "COMPUTATIONAL BIOLOGY AND CHEMISTRY"
-      paper_author : "DE SOUZA, LUANA G; MORAES, PAULA F; LEÃO, RAQUEL AC; COSTA, PAULO RR; Soares, Rosemberg O; PASCUTTI, PG; FIGUEROA-VILLAR, JOSE D; RENNÓ, MAGDALENA N"
+      paper_author : "DE SOUZA, L.G.; MORAES, P.F.; LEÃO, R.A.C.; COSTA, P.R.R; SOARES, R.O.; PASCUTTI, P.G.; FIGUEROA-VILLAR, J.D.; RENNÓ, M.N."
       paper_link : "http://dx.doi.org/10.1016/j.compbiolchem.2020.107293"
 
     - paper_title : "Water Bridges Play a Key Role in the Affinity and Selectivity for the Malarial Protease Falcipain-2"
       paper_enable : true
       paper_journal : "Journal of Chemical Information and Modeling"
-      paper_author : "HERNANDEZ GONZALEZ, JORGE ENRIQUE; HERNÁNDEZ ALVAREZ, LILIAN; LEITE, VITOR BP; PASCUTTI, PG"
+      paper_author : "GONZALEZ, J.E.H.; ALVAREZ, L.H.; LEITE, V.B.P.; PASCUTTI, P.G."
       paper_link : "http://dx.doi.org/10.1021/acs.jcim.0c00294"
-
-    - paper_title : "Enzymatic and structural properties of human glutamine:fructose-6-phosphate amidotransferase 2 (hGFAT2)"
-      paper_enable : true
-      paper_journal : "JOURNAL OF BIOLOGICAL CHEMISTRY"
-      paper_author : "OLIVEIRA, ISADORA A; ALLONSO, DIEGO; FERNANDES, TÁCIO VA; LUCENA, DANIELA MS; VENTURA, GUSTAVO T; DIAS, WAGNER BARBOSA; MOHANA-BORGES, RONALDO; PASCUTTI, PG; TODESCHINI, ADRIANE R"
-      paper_link : "http://dx.doi.org/10.1074/jbc.ra120.015189"
 
   - year_title : "2019"
     year_enable : true
@@ -103,29 +103,29 @@ papers:
     - paper_title : "Dissecting a novel allosteric mechanism of cruzain: A computer-aided approach"
       paper_enable : true
       paper_journal : "PLoS One"
-      paper_author : "HERNÁNDEZ ALVAREZ, LILIAN; BARRETO GOMES, DIEGO ENRY; HERNÁNDEZ GONZÁLEZ, JORGE ENRIQUE; PASCUTTI, PG"
+      paper_author : "ALVAREZ, L.H.; GOMES, D.E.B.; GONZÁLEZ, J.E.H.; PASCUTTI, P.G."
       paper_link : "http://dx.doi.org/10.1371/journal.pone.0211227"
 
     - paper_title : "Prediction of Non-Competitive Inhibitor Binding Mode Reveals Promising Site for Allosteric Modulation of Falcipain-2"
       paper_enable : true
       paper_journal : "JOURNAL OF PHYSICAL CHEMISTRY B"
-      paper_author : "HERNANDEZ GONZALEZ, JORGE ENRIQUE; HERNANDEZ ALVAREZ, LILIAN; PASCUTTI, PG; LEITE, VITOR BP"
+      paper_author : "GONZALEZ, J.E.H.; ALVAREZ, L.H.; PASCUTTI, P.G.; LEITE, V.B.P."
       paper_link : "http://dx.doi.org/10.1021/acs.jpcb.9b05021"
 
   - year_title : "2018"
     year_enable : true
     paper :
-    - paper_title : "Investigation of the binding mode of a novel cruzain inhibitor by docking, molecular dynamics, ab initio and MM/PBSA calculations"
-      paper_enable : true
-      paper_journal : "JOURNAL OF COMPUTER-AIDED MOLECULAR DESIGN"
-      paper_author : "MARTINS, LUAN CARVALHO; TORRES, PHM; DE OLIVEIRA, RENATA BARBOSA; PASCUTTI, PG; CINO, ELIO A; FERREIRA, RAFAELA SALGADO"
-      paper_link : "http://dx.doi.org/10.1007/s10822-018-0112-3"
-
     - paper_title : "Identification of (4-(9H-fluoren-9-yl) piperazin-1-yl) methanone derivatives as falcipain 2 inhibitors active against Plasmodium falciparum cultures"
       paper_enable : true
       paper_journal : "BIOCHIMICA ET BIOPHYSICA ACTA-GENERAL SUBJECTS"
-      paper_author : "HERNÁNDEZ-GONZÁLEZ, JORGE E; SALAS-SARDUY, EMIR; HERNÁNDEZ RAMÍREZ, LUISA F; PASCUAL, MARÍA J; ÁLVAREZ, DIEGO E; PABÓN, ADRIANA; LEITE, VITOR BP; PASCUTTI, PG; VALIENTE, PEDRO A"
+      paper_author : "GONZÁLEZ, J.E.; SALAS-SARDUY, E.; RAMÍREZ, L.F.H.; PASCUAL, M.J.; ÁLVAREZ, D.E.; PABÓN, A.; LEITE, V.B.P.; PASCUTTI, P.G.; VALIENTE, P.A."
       paper_link : "http://dx.doi.org/10.1016/j.bbagen.2018.09.015"
+
+    - paper_title : "Investigation of the binding mode of a novel cruzain inhibitor by docking, molecular dynamics, ab initio and MM/PBSA calculations"
+      paper_enable : true
+      paper_journal : "JOURNAL OF COMPUTER-AIDED MOLECULAR DESIGN"
+      paper_author : "MARTINS, L.C.; TORRES, P.H.M.; DE OLIVEIRA, R.B.; PASCUTTI, P.G.; CINO, E.A.; FERREIRA, R.S."
+      paper_link : "http://dx.doi.org/10.1007/s10822-018-0112-3"
 
   - year_title : "2017"
     year_enable : true
@@ -133,13 +133,13 @@ papers:
     - paper_title : "Insights into cytochrome bc1 complex binding mode of antimalarial 2-hydroxy-1,4-naphthoquinones through molecular modelling"
       paper_enable : true
       paper_journal : "Memórias do Instituto Oswaldo Cruz"
-      paper_author : "SODERO, ANA CAROLINA RENNÓ; ABRAHIM-VIEIRA, BÁRBARA; TORRES, PEDRO HENRIQUE MONTEIRO; PASCUTTI, PG; GARCIA, CÉLIA RS; FERREIRA, VITOR FRANCISCO; ROCHA, DAVID RODRIGUES DA; FERREIRA, SABRINA BAPTISTA; SILVA JR, FLORIANO PAES"
+      paper_author : "SODERO, A.C.R.; ABRAHIM-VIEIRA, B.; TORRES, P.H.M.; PASCUTTI, P.G.; GARCIA, C.R.S.; FERREIRA, V.F.; DA ROCHA, D.R.; FERREIRA, S.B.; SILVA JR, F.P."
       paper_link : "http://dx.doi.org/10.1590/0074-02760160417"
 
     - paper_title : "Predicting binding modes of reversible peptide-based inhibitors of falcipain-2 consistent with structure-activity relationships"
       paper_enable : true
       paper_journal : "PROTEINS-STRUCTURE FUNCTION AND BIOINFORMATICS"
-      paper_author : "HERNÁNDEZ GONZÁLEZ, JORGE ENRIQUE; HERNÁNDEZ ALVAREZ, LILIAN; PASCUTTI, PG; VALIENTE, PEDRO A"
+      paper_author : "GONZÁLEZ, J.E.H.; ALVAREZ, L.H.; PASCUTTI, P.G.; VALIENTE, P.A."
       paper_link : "http://dx.doi.org/10.1002/prot.25322"
 
   - year_title : "2016"
@@ -148,38 +148,38 @@ papers:
     - paper_title : "Alternative Model for RND-Type Efflux Pump"
       paper_enable : true
       paper_journal : "JOURNAL OF THE BRAZILIAN CHEMICAL SOCIETY"
-      paper_author : "TORRES, PHM; PASCUTTI, PG; BISCH, PAULO MASCARELLO; SILVA, MANUELA LEAL DA"
+      paper_author : "TORRES, P.H.M.; PASCUTTI, P.G.; BISCH, P.M.; DA SILVA, M.L."
       paper_link : "http://dx.doi.org/10.5935/0103-5053.20160125"
-
-    - paper_title : "Unraveling HIV Protease Flaps Dynamics by Constant pH Molecular Dynamics Simulations"
-      paper_enable : true
-      paper_journal : "Journal of Structural Biology (Print)"
-      paper_author : "SOARES, RO; TORRES, PEDRO HM; DA SILVA, MANUELA L; PASCUTTI, PG"
-      paper_link : "http://dx.doi.org/10.1016/j.jsb.2016.06.006"
-
-    - paper_title : "Insight on Mutation-Induced Resistance from Molecular Dynamics Simulations of the Native and Mutated CSF-1R and KIT"
-      paper_enable : true
-      paper_journal : "Plos One"
-      paper_author : "DA SILVA FIGUEIREDO CELESTINO GOMES, PRISCILA; CHAUVOT DE BEAUCHÊNE, ISAURE; PANEL, NICOLAS; LOPEZ, SOPHIE; DE SEPULVEDA, PAULO; Geraldo Pascutti, Pedro; SOLARY, ERIC; TCHERTANOV, LUBA"
-      paper_link : "http://dx.doi.org/10.1371/journal.pone.0160165"
-
-    - paper_title : "Non-competitive Inhibitor of Nucleoside Hydrolase from Leishmania donovani Identified by Fragment-based Drug Discovery"
-      paper_enable : true
-      paper_journal : "RSC Advances: an international journal to further the chemical sciences"
-      paper_author : "ALVES, MARINA AMARAL; LIMA, LÍDIA MOREIRA; TINOCO, LUZINEIDE; NIRMA, CHARLOTTE; MOREIRA, MAYARA M; Soares, Rosemberg O; PASCUTTI, PG; NOEL, F; COSTA, PAULO; SANT?ANNA, CARLOS; BARREIRO, ELIEZER J"
-      paper_link : "http://dx.doi.org/10.1039/C6RA15143D"
-
-    - paper_title : "Machine Learning and Applications in Bioinformatics."
-      paper_enable : true
-      paper_journal : "SEMIOSES (RIO DE JANEIRO)"
-      paper_author : "DIAS, MFR; PASCUTTI, PG; da Silva, ML"
-      paper_link : ""
 
     - paper_title : "Dataset showing the impact of the protonation states on molecular dynamics of HIV protease"
       paper_enable : true
       paper_journal : "DATA IN BRIEF"
-      paper_author : "Soares, Rosemberg O; TORRES, PEDRO HM; DA SILVA, MANUELA L; PASCUTTI, PG"
+      paper_author : "SOARES, R.O.; TORRES, P.H.M.; DA SILVA, M.L.; PASCUTTI, P.G."
       paper_link : "http://dx.doi.org/10.1016/j.dib.2016.07.040"
+
+    - paper_title : "Insight on Mutation-Induced Resistance from Molecular Dynamics Simulations of the Native and Mutated CSF-1R and KIT"
+      paper_enable : true
+      paper_journal : "Plos One"
+      paper_author : "GOMES, P.S.F.C.; DE BEAUCHÊNE, I.C.; PANEL, N.; LOPEZ, S.; DE SEPULVEDA, P.; PASCUTTI, P.G.; SOLARY, E.; TCHERTANOV, L."
+      paper_link : "http://dx.doi.org/10.1371/journal.pone.0160165"
+
+    - paper_title : "Machine Learning and Applications in Bioinformatics."
+      paper_enable : true
+      paper_journal : "SEMIOSES (RIO DE JANEIRO)"
+      paper_author : "DIAS, M.F.R.; PASCUTTI, P.G.; DA SILVA, M.L."
+      paper_link : ""
+
+    - paper_title : "Non-competitive Inhibitor of Nucleoside Hydrolase from Leishmania donovani Identified by Fragment-based Drug Discovery"
+      paper_enable : true
+      paper_journal : "RSC Advances: an international journal to further the chemical sciences"
+      paper_author : "ALVES, M.A.; LIMA, L.M.; TINOCO, L.; NIRMA, C.; MOREIRA, M.M.; SOARES, R.O.; PASCUTTI, P.G.; NOEL, F.; COSTA, P.; SANT?ANNA, C.; BARREIRO, E.J."
+      paper_link : "http://dx.doi.org/10.1039/C6RA15143D"
+
+    - paper_title : "Unraveling HIV Protease Flaps Dynamics by Constant pH Molecular Dynamics Simulations"
+      paper_enable : true
+      paper_journal : "Journal of Structural Biology (Print)"
+      paper_author : "SOARES, R.O.; TORRES, P.H.M.; DA SILVA, M.L.; PASCUTTI, P.G."
+      paper_link : "http://dx.doi.org/10.1016/j.jsb.2016.06.006"
 
   - year_title : "2015"
     year_enable : true
