@@ -573,7 +573,7 @@ papers:
       paper_enable : true
       paper_journal : "European Biophysics Journal"
       paper_author : "LOUREIRO, P.A.; BISCH, P.M.; PASCUTTI, P.G."
-      paper_link : "http://dx.doi.org/10.1016/S0006-3495(02)75477-5" *
+      paper_link : "http://dx.doi.org/10.1016/S0006-3495(02)75477-5"
 
     - paper_title : "Nonspecific interaction forces at water-membrane interface by forced molecular dynamics simulations"
       paper_enable : true
