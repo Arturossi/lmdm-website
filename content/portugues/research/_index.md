@@ -358,62 +358,62 @@ papers:
     - paper_title : "Conformational Analysis of Toxogonine, TMB-4 and HI-6 using PM6 and RM1 methods"
       paper_enable : true
       paper_journal : "Journal of the Brazilian Chemical Society (Impresso)"
-      paper_author : "Gonçalves, Arlan da Silva; França, Tanos CC; Figueroa-Villar, José D; PASCUTTI, PG"
+      paper_author : "GONÇALVES, A.S.; FRANÇA, T.C.C.; FIGUEROA-VILLAR, J.D.; PASCUTTI, P.G."
       paper_link : "http://dx.doi.org/10.1590/S0103-50532010000100025"
 
-    - paper_title : "Design, docking studies and molecular dynamics of new potential selective inhibitors of Plasmodium falciparum serine hydroxymethyltransferase"
+    - paper_title : "Conformational selection, dynamic restriction and the hydrophobic effect coupled to stabilization of the BIR3 domain of the human X-linked inhibitor of apoptosis protein by the tetrapeptide AVPI"
       paper_enable : true
-      paper_journal : "Molecular Simulation"
-      paper_author : "da Silva, Manuela Leal; da Silva Goncalves, Arlan; Ricardo Batista, Paulo; Figueroa-Villar, Jose Daniel; PASCUTTI, PG; Franca, Tanos Celmar Costa"
-      paper_link : "http://dx.doi.org/10.1080/08927020903051580"
-
-    - paper_title : "The Role of Nonbonded Interactions in the Conformational Dynamics of Organophosphorous Hydrolase Adsorbed onto Functionalized Mesoporous Silica Surfaces"
-      paper_enable : true
-      paper_journal : "Journal of Physical Chemistry. B"
-      paper_author : "Gomes, Diego EB; Lins, Roberto D; PASCUTTI, PG; Lei, Chenghong; Soares, Thereza A"
-      paper_link : "http://dx.doi.org/10.1021/jp9083635"
+      paper_journal : "Biophysical Chemistry (Print)"
+      paper_author : "DE SOUZA, T.L.F.; SANCHES, D.; GONÇALVEZ, R.B.; PITA, S.S.R.; PASCUTTI, P.G.; BIANCONI, M.L.; DE ALMEIDA, F.C.L.; SILVA, J.L.; DE OLIVEIRA, A.C."
+      paper_link : "http://dx.doi.org/10.1016/j.bpc.2010.08.005"
 
     - paper_title : "Consensus modes, a robust description of protein collective motions from multiple-minima normal mode analysis¿application to the HIV-1 protease"
       paper_enable : true
       paper_journal : "PCCP. Physical Chemistry Chemical Physics"
-      paper_author : "Batista, Paulo Ricardo; Robert, Charles Herbert; Maréchal, Jean-Didier; Hamida-Rebaï, Meriam Ben; PASCUTTI, PG; Bisch, Paulo Mascarello; Perahia, David"
+      paper_author : "BATISTA, P.R.; ROBERT, C.H.; MARÉCHAL, J.D.; HAMIDA-REDAI, M.B.; PASCUTTI, P.G.; BISCH, P.M.; PERAHIA, D."
       paper_link : "http://dx.doi.org/10.1039/b919148h"
+
+    - paper_title : "Design, docking studies and molecular dynamics of new potential selective inhibitors of Plasmodium falciparum serine hydroxymethyltransferase"
+      paper_enable : true
+      paper_journal : "Molecular Simulation"
+      paper_author : "DA SILVA, M.L.; GONÇALVES, A.S.; BATISTA, P.R.; FIGUEROA-VILLAR, J.D.; PASCUTTI, P.G.; FRANCA, T.C.C."
+      paper_link : "http://dx.doi.org/10.1080/08927020903051580"
 
     - paper_title : "How does heparin prevent the pH inactivation of cathepsin B? Allosteric mechanism elucidated by docking and molecular dynamics"
       paper_enable : true
       paper_journal : "BMC Genomics"
-      paper_author : "Costa, Mauricio GS; Batista, Paulo R; Shida, Cláudio S; Robert, Charles H; Bisch, Paulo M; PASCUTTI, PG"
+      paper_author : "COSTA, M.G.S.; BATISTA, P.R.; SHIDA, C.S.; ROBERT, C.H.; BISCH, P.M.; PASCUTTI, P.G."
       paper_link : "http://dx.doi.org/10.1186/1471-2164-11-S5-S5"
 
     - paper_title : "New parameterization approaches of the LIE method to improve free energy calculations of PlmII-Inhibitors complexes"
       paper_enable : true
       paper_journal : "Journal of Computational Chemistry"
-      paper_author : "Valiente, Pedro A; Gil L, Alejandro; Batista, Paulo R; Caffarena, Ernesto R; Pons, Tirso; PASCUTTI, PG"
+      paper_author : "VALIENTE, P.A.; GIL L., A.; BATISTA, P.R.; CAFFARENA, E.R.; PONS, T.; PASCUTTI, P.G."
       paper_link : "http://dx.doi.org/10.1002/jcc.21566"
-
-    - paper_title : "Understanding the HIV-1 protease nelfinavir resistance mutation D30N in subtypes B and C through molecular dynamics simulations"
-      paper_enable : true
-      paper_journal : "Journal of Molecular Graphics & Modelling"
-      paper_author : "Soares, Rosemberg O; Batista, Paulo R; Costa, Mauricio GS; Dardenne, Laurent E; PASCUTTI, PG; Soares, Marcelo A"
-      paper_link : "http://dx.doi.org/10.1016/j.jmgm.2010.05.007"
-
-    - paper_title : "Solvation of anionic water-soluble porphyrins: A computational study"
-      paper_enable : true
-      paper_journal : "INTERNATIONAL JOURNAL OF QUANTUM CHEMISTRY"
-      paper_author : "Guizado, Teobaldo RCuya; Louro, Sonia RW; PASCUTTI, PG; Anteneodo, Celia"
-      paper_link : "http://dx.doi.org/10.1002/qua.22700"
 
     - paper_title : "Self-affine analysis of protein energy"
       paper_enable : true
       paper_journal : "PHYSICA A-STATISTICAL MECHANICS AND ITS APPLICATIONS"
-      paper_author : "Figueirêdo, PH; Moret, MA; PASCUTTI, PG; Nogueira, E; Coutinho, S"
+      paper_author : "FIGUEIRÊDO, P.H.; MORET, M.A.; PASCUTTI, P.G.; NOGUEIRA, E.; COUTINHO, S."
       paper_link : "http://dx.doi.org/10.1016/j.physa.2010.03.021"
 
-    - paper_title : "Conformational selection, dynamic restriction and the hydrophobic effect coupled to stabilization of the BIR3 domain of the human X-linked inhibitor of apoptosis protein by the tetrapeptide AVPI"
+    - paper_title : "Solvation of anionic water-soluble porphyrins: A computational study"
       paper_enable : true
-      paper_journal : "Biophysical Chemistry (Print)"
-      paper_author : "de Souza, Theo Luiz Ferraz; Sanches, Daniel; GonÃ§alves, Rafael Braga; da RochaPita, Samuel Silva; PASCUTTI, PG; Bianconi, MLucia; de Almeida, Fabio Ceneviva Lacerda; Silva, Jerson L; de Oliveira, AndrÃ©a Cheble"
-      paper_link : "http://dx.doi.org/10.1016/j.bpc.2010.08.005"
+      paper_journal : "INTERNATIONAL JOURNAL OF QUANTUM CHEMISTRY"
+      paper_author : "GUIZADO, T.R.C.; LOURO, S.R.W.; PASCUTTI, P.G.; ANTENEODO, C."
+      paper_link : "http://dx.doi.org/10.1002/qua.22700"
+
+    - paper_title : "The Role of Nonbonded Interactions in the Conformational Dynamics of Organophosphorous Hydrolase Adsorbed onto Functionalized Mesoporous Silica Surfaces"
+      paper_enable : true
+      paper_journal : "Journal of Physical Chemistry. B"
+      paper_author : "GOMES, D.E.B.; LINS, R.D.; PASCUTTI, P.G.; LEI, C.; SOARES, T.A."
+      paper_link : "http://dx.doi.org/10.1021/jp9083635"
+
+    - paper_title : "Understanding the HIV-1 protease nelfinavir resistance mutation D30N in subtypes B and C through molecular dynamics simulations"
+      paper_enable : true
+      paper_journal : "Journal of Molecular Graphics & Modelling"
+      paper_author : "SOARES, R.O.; BATISTA, P.R.; COSTA, M.G.S.; DARDENNE, L.E.; PASCUTTI, P.G.; SOARES, M.A."
+      paper_link : "http://dx.doi.org/10.1016/j.jmgm.2010.05.007"
 
   - year_title : "2009"
     year_enable : true
@@ -421,62 +421,62 @@ papers:
     - paper_title : "Dissociation of molecular aggregates under high hydrostatic pressure: the influence of water structure on Benzene cluster solubility"
       paper_enable : true
       paper_journal : "Journal of the Brazilian Chemical Society (Impresso)"
-      paper_author : "Gonçalves, Arlan S; Caffarena, Ernesto R; PASCUTTI, PG"
+      paper_author : "GONÇALVES, A.S.; CAFFARENA, E.R.; PASCUTTI, P.G."
       paper_link : "http://dx.doi.org/10.1590/S0103-50532009000700005"
 
     - paper_title : "Molecular Dynamics Study of Biomembrane-Local  Anesthetics Interactions"
       paper_enable : true
       paper_journal : "Molecular Physics"
-      paper_author : "BERNARDI, RC; GOMES, DEB; Taft, CA; OTA, AT; PASCUTTI, PG"
+      paper_author : "BERNARDI, R.C.; GOMES, D.E.B.; TAFT, C.A.; OTA, A.T.; PASCUTTI, P.G."
       paper_link : "http://dx.doi.org/10.1080/00268970902926238"
 
     - paper_title : "Self-similarity and protein compactness"
       paper_enable : true
       paper_journal : "Physical Review. E, Statistical, Nonlinear, and Soft Matter Physics (Print)"
-      paper_author : "MORET, MA; Santana, MC; Zebende, GF; PASCUTTI, PG"
+      paper_author : "MORET, M.A.; SANTANA, M.C.; ZEBENDE, G.F.; PASCUTTI, P.G."
       paper_link : "http://dx.doi.org/10.1103/PhysRevE.80.041908"
 
   - year_title : "2008"
     year_enable : true
     paper :
-    - paper_title : "Predicting functional residues in Plasmodium falciparum plasmepsins by combining sequence and structural analysis with molecular dynamics simulations"
-      paper_enable : true
-      paper_journal : "Proteins"
-      paper_author : "Valiente, Pedro A; Batista, Paulo R; Pupo, Amaury; Pons, Tirso; Valencia, Alfonso; PASCUTTI, PG"
-      paper_link : "http://dx.doi.org/10.1002/prot.22068"
-
     - paper_title : "Computational study of the solvation of protoporphyrin IX and its Fe              2+</sup>              complex"
       paper_enable : true
       paper_journal : "International Journal of Quantum Chemistry"
-      paper_author : "Guizado, Teobaldo Cuya; da Rocha Pita, Samuel; Wanderley Louro, Sonia R; PASCUTTI, PG"
+      paper_author : "GUIZADO, T.C.; PITA, S.R.; LOURO, S.R.W.; PASCUTTI, P.G."
       paper_link : "http://dx.doi.org/10.1002/qua.21695"
-
-    - paper_title : "Studies of molecular docking between fibroblast growth factor and heparin using generalized simulated annealing"
-      paper_enable : true
-      paper_journal : "International Journal of Quantum Chemistry"
-      paper_author : "da Rocha Pita, Samuel Silva; Fernandes, Tácio Vinício Amorim; Caffarena, Ernesto Raul; PASCUTTI, PG"
-      paper_link : "http://dx.doi.org/10.1002/qua.21731"
 
     - paper_title : "Molecular Models to Emulate Confinement Effects on the Internal Dynamics of Organophosphorous Hydrolase"
       paper_enable : true
       paper_journal : "Lecture Notes in Computer Science (LNCS)"
-      paper_author : "GOMES, DEB; Lins, R D; PASCUTTI, PG; Straatsma, T P; Soares, A T"
+      paper_author : "GOMES, D.E.B.; LINS, R.D.; PASCUTTI, P.G.; STRAATSMA, T.P.; SOARES, A.T."
       paper_link : "http://dx.doi.org/10.1007/978-3-540-85557-6"
+
+    - paper_title : "Predicting functional residues in Plasmodium falciparum plasmepsins by combining sequence and structural analysis with molecular dynamics simulations"
+      paper_enable : true
+      paper_journal : "Proteins"
+      paper_author : "VALIENTE, P.A.; BATISTA, P.R.; PUPO, A.; PONS, T.; VALENCIA, A.; PASCUTTI, P.G."
+      paper_link : "http://dx.doi.org/10.1002/prot.22068"
+
+    - paper_title : "Studies of molecular docking between fibroblast growth factor and heparin using generalized simulated annealing"
+      paper_enable : true
+      paper_journal : "International Journal of Quantum Chemistry"
+      paper_author : "PITA, S.S.R.; FERNANDES, T.V.A.; CAFFARENA, E.R.; PASCUTTI, P.G."
+      paper_link : "http://dx.doi.org/10.1002/qua.21731"
 
   - year_title : "2007"
     year_enable : true
     paper :
-    - paper_title : "Water solvent and local anesthetics: A computational study"
-      paper_enable : true
-      paper_journal : "International Journal of Quantum Chemistry"
-      paper_author : "BERNARDI, RC; GOMES, DEB; PASCUTTI, PG; ITO, AS; Taft, CA; OTA, AT"
-      paper_link : "http://dx.doi.org/10.1002/qua.21300"
-
     - paper_title : "Density functional and molecular dynamics simulations of local anesthetics in 0.9% NaCl solution"
       paper_enable : true
       paper_journal : "Molecular Simulation"
-      paper_author : "BERNARDI, RC; GOMES, DEB; ITO, AS; OTA, AT; PASCUTTI, PG; Taft, C"
+      paper_author : "BERNARDI, R.C.; GOMES, D.E.B.; ITO, A.S.; OTA, A.T.; PASCUTTI, P.G.; TAFT, C."
       paper_link : "http://dx.doi.org/10.1080/08927020701620636"
+
+    - paper_title : "Water solvent and local anesthetics: A computational study"
+      paper_enable : true
+      paper_journal : "International Journal of Quantum Chemistry"
+      paper_author : "BERNARDI, R.C.; GOMES, D.E.B.; PASCUTTI, P.G.; ITO, A.S.; TAFT, C.A.; OTA, A.T."
+      paper_link : "http://dx.doi.org/10.1002/qua.21300"
 
   - year_title : "2006"
     year_enable : true
@@ -484,32 +484,32 @@ papers:
     - paper_title : "Classical and quantum conformational analysis using Generalized Genetic Algorithm"
       paper_enable : true
       paper_journal : "Physica. A"
-      paper_author : "MORET, M; PASCUTTI, PG; BISCH, P; MUNDIM, M; MUNDIM, K"
+      paper_author : "MORET, M.; PASCUTTI, P.G.; BISCH, P.M.; MUNDIM, M.; MUNDIM, K."
       paper_link : "http://dx.doi.org/10.1016/j.physa.2005.08.062"
-
-    - paper_title : "Molecular Dynamics Simulations Applied to the Study of Subtypes of HIV-1 Protease Common to Brazil, Africa, and Asia"
-      paper_enable : true
-      paper_journal : "Cell Biochemistry and Biophysics"
-      paper_author : "Batista, Paulo R; Wilter, Alan; Durham, Elza HAB; PASCUTTI, PG"
-      paper_link : "http://dx.doi.org/10.1385/CBB:44:3:395"
 
     - paper_title : "Generalized simulated annealing applied to protein folding studies"
       paper_enable : true
       paper_journal : "Journal of Computational Chemistry"
-      paper_author : "Agostini, Flavia P; Soares-Pinto, Diogo De O; Moret, Marcelo A; Osthoff, Carla; PASCUTTI, PG"
+      paper_author : "AGOSTINI, F.P.; SOARES-PINTO, D.O.; MORET, M.A.; OSTHOFF, C.; PASCUTTI, P.G."
       paper_link : "http://dx.doi.org/10.1002/jcc.20428"
-
-    - paper_title : "Theoretical studies on water-tetracaine interaction"
-      paper_enable : true
-      paper_journal : "International Journal of Quantum Chemistry"
-      paper_author : "BERNARDI, RC; GOMES, DEB; PASCUTTI, PG; ITO, AS; OTA, AT"
-      paper_link : "http://dx.doi.org/10.1002/qua.20881"
 
     - paper_title : "Molecular dynamics of the interaction of Plasmodium falciparum and human serine hydroxymethyltransferase with 5-formyl-6-hydrofolic acid analogues: design of new potential antimalarials"
       paper_enable : true
       paper_journal : "Journal of the Brazilian Chemical Society"
-      paper_author : "França, Tanos CC; Wilter, Alan; Ramalho, Teodorico C; PASCUTTI, PG; Figueroa-Villar, José D"
+      paper_author : "FRANÇA, T.C.C.; WILTER, A.; RAMALHO, T.C.; PASCUTTI, P.G.; FIGUEROA-VILLAR, J.D."
       paper_link : "http://dx.doi.org/10.1590/S0103-50532006000700028"
+
+    - paper_title : "Molecular Dynamics Simulations Applied to the Study of Subtypes of HIV-1 Protease Common to Brazil, Africa, and Asia"
+      paper_enable : true
+      paper_journal : "Cell Biochemistry and Biophysics"
+      paper_author : "BATISTA, P.R.; WILTER, A.; DURHAM, E.H.A.B.; PASCUTTI, P.G."
+      paper_link : "http://dx.doi.org/10.1385/CBB:44:3:395"
+
+    - paper_title : "Theoretical studies on water-tetracaine interaction"
+      paper_enable : true
+      paper_journal : "International Journal of Quantum Chemistry"
+      paper_author : "BERNARDI, R.C.; GOMES, D.E.B.; PASCUTTI, P.G.; ITO, A.S.; OTA, A.T."
+      paper_link : "http://dx.doi.org/10.1002/qua.20881"
 
   - year_title : "2005"
     year_enable : true
@@ -517,43 +517,43 @@ papers:
     - paper_title : "A three-dimensional structure of  serine hydroxymethyltransferase in complex with glycine and 5-formyl-tetrahydrofolate. Homology modeling and molecular dynamics"
       paper_enable : true
       paper_journal : "Biophysical Chemistry"
-      paper_author : "FRANCA, T; PASCUTTI, PG; RAMALHO, T; FIGUEROAVILLAR, J"
+      paper_author : "FRANCA, T.; PASCUTTI, P.G.; RAMALHO, T.; FIGUEROA-VILLAR, J."
       paper_link : "http://dx.doi.org/10.1016/j.bpc.2004.12.002"
 
-    - paper_title : "Stochastic strategy to analyze protein folding"
+    - paper_title : "Binding mode of e-64 to Malaria and Chagas disease cysteine proteases"
       paper_enable : true
-      paper_journal : "Physica. A"
-      paper_author : "MORET, M; BISCH, P; NOGUEIRAJR, E; PASCUTTI, PG"
-      paper_link : "http://dx.doi.org/10.1016/j.physa.2005.01.048"
-
-    - paper_title : "Structural analysis of Pla protein from Y. pestis: Docking and molecular dynamics of interactions with mammalian plasminogen system"
-      paper_enable : true
-      paper_journal : "FEBS Journal"
-      paper_author : "SANTOS, ERDOS; PASCUTTI, PG"
-      paper_link : ""
-
-    - paper_title : "The BioPAUÁ Project: A Portal for Molecular Dynamics Using Grid Environment"
-      paper_enable : true
-      paper_journal : "Lecture Notes in Computer Science"
-      paper_author : "SILVA, AWSDA; PASCUTTI, PG; Osthoff, C; OLIVEIRA, C; GOMES, DEB; HILL, E; DARDENNE, LE; BARROS, PM; LOUREIRO, PAL; NOVAES, R"
+      paper_journal : "European Biophysics Journal With Biophysics Letters"
+      paper_author : "GOMES, D.E.B.; PASCUTTI, P.G."
       paper_link : ""
 
     - paper_title : "Mapping of important residues in interface area of Pla protein from Yersinia pestis with mammalian Plasmin(ogen) by Molecular Dynamics simulations"
       paper_enable : true
       paper_journal : "European Biophysics Journal With Biophysics Letters"
-      paper_author : "SANTOS, ERDOS; PASCUTTI, PG"
-      paper_link : ""
-
-    - paper_title : "Binding mode of e-64 to Malaria and Chagas disease cysteine proteases"
-      paper_enable : true
-      paper_journal : "European Biophysics Journal With Biophysics Letters"
-      paper_author : "GOMES, DEB; PASCUTTI, PG"
+      paper_author : "SANTOS, E.R.D.O.S.; PASCUTTI, P.G."
       paper_link : ""
 
     - paper_title : "Peptide conformational search using Generalized Simulated Annealing method"
       paper_enable : true
       paper_journal : "European Biophysics Journal With Biophysics Letters"
-      paper_author : "PASCUTTI, PG; AGOSTINI, FP; Osthoff, C; MUNDIM, KC; MORET, MA"
+      paper_author : "PASCUTTI, P.G.; AGOSTINI, F.P.; OSTHOFF, C.; MUNDIM, K.C.; MORET, M.A."
+      paper_link : ""
+
+    - paper_title : "Stochastic strategy to analyze protein folding"
+      paper_enable : true
+      paper_journal : "Physica. A"
+      paper_author : "MORET, M.; BISCH, P.M,; NOGUEIRA JR, E.; PASCUTTI, P.G."
+      paper_link : "http://dx.doi.org/10.1016/j.physa.2005.01.048"
+
+    - paper_title : "Structural analysis of Pla protein from Y. pestis: Docking and molecular dynamics of interactions with mammalian plasminogen system"
+      paper_enable : true
+      paper_journal : "FEBS Journal"
+      paper_author : "SANTOS, E.R.D.O.S.; PASCUTTI, P.G."
+      paper_link : ""
+
+    - paper_title : "The BioPAUÁ Project: A Portal for Molecular Dynamics Using Grid Environment"
+      paper_enable : true
+      paper_journal : "Lecture Notes in Computer Science"
+      paper_author : "SILVA, A.W.S.D.A.; PASCUTTI, P.G.; OSTHOFF, C.; OLIVEIRA, C.; GOMES, D.E.B.; HILL, E.; DARDENNE, L.E.; BARROS, P.M.; LOUREIRO, P.A.L.; NOVAES, R."
       paper_link : ""
 
   - year_title : "2004"
@@ -563,23 +563,23 @@ papers:
   - year_title : "2003"
     year_enable : true
     paper :
-    - paper_title : "Nonspecific interaction forces at water-membrane interface by forced molecular dynamics simulations"
-      paper_enable : true
-      paper_journal : "Journal of Computational Chemistry"
-      paper_author : "Lorenzo, Alicia C; PASCUTTI, PG; Bisch, Paulo M"
-      paper_link : "http://dx.doi.org/10.1002/jcc.10163"
-
-    - paper_title : "Molecular dynamics simulations  of  a DPPC bilayer with a GROMOS parameter set optimized for long alkanes"
-      paper_enable : true
-      paper_journal : "European Biophysics Journal"
-      paper_author : "LOUREIRO, PA; Bisch, PM; PASCUTTI, PG"
-      paper_link : "http://dx.doi.org/10.1016/S0006-3495(02)75477-5"
-
     - paper_title : "A Grid Alternative Solution for Protein Folding Studies Applications"
       paper_enable : true
       paper_journal : "Revista Tecnologia da Informação"
-      paper_author : "Agostini, FP; Osthoff, C; VASSALO, A; Soares-Pinto, DO; PASCUTTI, PG"
+      paper_author : "AGOSTINI, F.P.; OSTHOFF, C.; VASSALO, A.; SOARES-PINTO, D.O.; PASCUTTI, P.G."
       paper_link : ""
+
+    - paper_title : "Molecular dynamics simulations of a DPPC bilayer with a GROMOS parameter set optimized for long alkanes"
+      paper_enable : true
+      paper_journal : "European Biophysics Journal"
+      paper_author : "LOUREIRO, P.A.; BISCH, P.M.; PASCUTTI, P.G."
+      paper_link : "http://dx.doi.org/10.1016/S0006-3495(02)75477-5" *
+
+    - paper_title : "Nonspecific interaction forces at water-membrane interface by forced molecular dynamics simulations"
+      paper_enable : true
+      paper_journal : "Journal of Computational Chemistry"
+      paper_author : "LORENZO, A.C.; PASCUTTI, P.G.; BISCH, P.M."
+      paper_link : "http://dx.doi.org/10.1002/jcc.10163"
 
   - year_title : "2002"
     year_enable : true
@@ -587,29 +587,29 @@ papers:
     - paper_title : "Molecular Modeling and Dynamics of the Sodium Channel Inactivation Gate"
       paper_enable : true
       paper_journal : "Biophysical Journal"
-      paper_author : "SIROTA, F; PASCUTTI, PG; ANTENEODO, C"
+      paper_author : "SIROTA, F.; PASCUTTI, P.G.; ANTENEODO, C."
       paper_link : "http://dx.doi.org/10.1016/S0006-3495(02)75477-5"
 
     - paper_title : "New Stochastic Strategy to Analyze Helix Folding"
       paper_enable : true
       paper_journal : "Biophysical Journal"
-      paper_author : "MORET, M; BISCH, PM; MUNDIM, KC; PASCUTTI, PG"
+      paper_author : "MORET, M.; BISCH, P.M.; MUNDIM, K.C.; PASCUTTI, P.G."
       paper_link : "http://dx.doi.org/10.1016/S0006-3495(02)75471-4"
 
   - year_title : "2001"
     year_enable : true
     paper :
-    - paper_title : "Multifractality, Levinthal paradox, and energy hypersurface"
-      paper_enable : true
-      paper_journal : "Physical Review E - Statistical Physics, Plasmas, Fluids and Related Interdisciplinary Topics"
-      paper_author : "MORET, MA; PASCUTTI, PG; MUNDIM, KC; Bisch, PM; Nogueira, E"
-      paper_link : "http://dx.doi.org/10.1103/PhysRevE.63.020901"
-
     - paper_title : "Molecular dynamics of the sodium channel inactivation gate in a dielectric discontinuity medium"
       paper_enable : true
       paper_journal : "Biophysical Journal"
-      paper_author : "LEITE, FS; PASCUTTI, PG; ANTENEODO, C"
+      paper_author : "LEITE, F.S.; PASCUTTI, P.G.; ANTENEODO, C."
       paper_link : ""
+
+    - paper_title : "Multifractality, Levinthal paradox, and energy hypersurface"
+      paper_enable : true
+      paper_journal : "Physical Review E - Statistical Physics, Plasmas, Fluids and Related Interdisciplinary Topics"
+      paper_author : "MORET, M.A.; PASCUTTI, P.G.; MUNDIM, K.C.; BISCH, P.M.; NOGUEIRA, E."
+      paper_link : "http://dx.doi.org/10.1103/PhysRevE.63.020901"
 
   - year_title : "2000"
     year_enable : false
@@ -618,17 +618,17 @@ papers:
   - year_title : "1999"
     year_enable : true
     paper :
-    - paper_title : "Polarization effects on peptide conformations at water-membrane interface by molecular dynamics simulation"
-      paper_enable : true
-      paper_journal : "Journal of Computational Chemistry"
-      paper_author : "PASCUTTI, PG; Mundim, Kleber C; Ito, Amando S; Bisch, Paulo M"
-      paper_link : "http://dx.doi.org/10.1002/(SICI)1096-987X(19990715)20:9%3C971::AID-JCC8%3E3.0.CO;2-0"
-
     - paper_title : "Molecular dynamics simulation of alfa-melanocyte stimulating hormone in a water-membrane model interfaces"
       paper_enable : true
       paper_journal : "European Biophysics Journal"
-      paper_author : "PASCUTTI, PG; EL-JAIK, LJ; MUNDIM, KC; ITO, AS; BISCH, PM"
+      paper_author : "PASCUTTI, P.G.; EL-JAIK, L.J.; MUNDIM, K.C.; ITO, A.S.; BISCH, P.M."
       paper_link : "http://dx.doi.org/10.1007/s002490050232"
+
+    - paper_title : "Polarization effects on peptide conformations at water-membrane interface by molecular dynamics simulation"
+      paper_enable : true
+      paper_journal : "Journal of Computational Chemistry"
+      paper_author : "PASCUTTI, P.G.; MUNDIM, K.C.; ITO, A.S.; BISCH, P.M."
+      paper_link : "http://dx.doi.org/10.1002/(SICI)1096-987X(19990715)20:9%3C971::AID-JCC8%3E3.0.CO;2-0"
 
   - year_title : "1998"
     year_enable : true
@@ -636,7 +636,7 @@ papers:
     - paper_title : "Stochastic molecular optimization using generalized simulated annealing"
       paper_enable : true
       paper_journal : "Journal of Computational Chemistry"
-      paper_author : "MORET, MA; PASCUTTI, PG; Bisch, PM; MUNDIM, KC"
+      paper_author : "MORET, M.A.; PASCUTTI, P.G.; BISCH, P.M.; MUNDIM, K.C."
       paper_link : "http://dx.doi.org/10.1002/(SICI)1096-987X(19980430)19:6%3C647::AID-JCC6%3E3.0.CO;2-R"
 
   - year_title : "1997"
@@ -645,7 +645,7 @@ papers:
     - paper_title : "Molecular Dynamics Simulations of Peptide-Membrane Interactions"
       paper_enable : true
       paper_journal : "Biophysical Journal"
-      paper_author : "PASCUTTI, PG; CASSIANO, MM; ITO, AS; Bisch, PM"
+      paper_author : "PASCUTTI, P.G.; CASSIANO, M.M.; ITO, A.S.; BISCH, P.M."
       paper_link : ""
 
   - year_title : "1996"
@@ -654,23 +654,23 @@ papers:
     - paper_title : "Molecular dynamics of peptides at membrane-water interfaces"
       paper_enable : true
       paper_journal : "Progress in Biophysics and Molecular Biology"
-      paper_author : "PASCUTTI, PG; AÊAS, EPG; ITO, AS; MUNDIM, KC; BISCH, PM"
+      paper_author : "PASCUTTI, P.G.; AÊAS, E.P.G.; ITO, A.S.; MUNDIM, K.C.; BISCH, P.M."
       paper_link : ""
 
   - year_title : "1995"
     year_enable : true
     paper :
-    - paper_title : "On the contribution of electon transfer reactions to the quenching of triptophan fluorescence"
-      paper_enable : true
-      paper_journal : "Journal of Chemical Physics"
-      paper_author : "GOLDMAN, C; PASCUTTI, PG; PIQUINI, P; ITO, AS"
-      paper_link : "http://dx.doi.org/10.1063/1.469846"
-
     - paper_title : "Molecular Dynamics Simulations of Signal Sequences at a Membrane/Water Interface"
       paper_enable : true
       paper_journal : "JOURNAL OF PHYSICAL CHEMISTRY"
-      paper_author : "AREAS, ELIZABETH PG; PASCUTTI, PG; SCHREIER, SHIRLEY; Mundim, Kleber C; Bisch, Paulo M"
+      paper_author : "AREAS, E.P.G.; PASCUTTI, P.G.; SCHREIER, S.; MUNDIM, K.C.; BISCH, P.M."
       paper_link : "http://dx.doi.org/10.1021/j100040a044"
+
+    - paper_title : "On the contribution of electon transfer reactions to the quenching of triptophan fluorescence"
+      paper_enable : true
+      paper_journal : "Journal of Chemical Physics"
+      paper_author : "GOLDMAN, C.; PASCUTTI, P.G.; PIQUINI, P.; ITO, A.S."
+      paper_link : "http://dx.doi.org/10.1063/1.469846"
 
   - year_title : "1994"
     year_enable : true
@@ -678,7 +678,7 @@ papers:
     - paper_title : "Molecular dynamics at a cytoplasm/membrane interface of a signal sequence from an e.coli maltoporin"
       paper_enable : true
       paper_journal : "Brazilian Journal of Medical and Biological Research"
-      paper_author : "ARÊAS, EPG; PASCUTTI, PG; SCHREIER, S; MUNDIM, KC; BISCH, PM"
+      paper_author : "ARÊAS, E.P.G.; PASCUTTI, P.G.; SCHREIER, S.; MUNDIM, K.C.; BISCH, P.M."
       paper_link : ""
 
   - year_title : "1993"
@@ -691,13 +691,13 @@ papers:
     - paper_title : "EPR study of melanin-protein interaction: Photoinduced free radicals and progressive microwave power saturation"
       paper_enable : true
       paper_journal : "Journal of Photochemistry and Photobiology. B, Biology"
-      paper_author : "PASCUTTI, PG; ITO, AS"
+      paper_author : "PASCUTTI, P.G.; ITO, A.S."
       paper_link : "http://dx.doi.org/10.1016/1011-1344(92)80014-m"
 
     - paper_title : "Kinetic studies of the photodecomposition of dipyridamole in solution: Interaction with lysophosphatidylcholine and bovine serum albumin"
       paper_enable : true
       paper_journal : "Spectrochimica Acta. Part A, Molecular Spectroscopy"
-      paper_author : "BORISEVITCH, IOURIJ E; PASCUTTI, PG; TABAK, MARCEL"
+      paper_author : "BORISEVITCH, I.E.; PASCUTTI, P.G.; TABAK, M."
       paper_link : "http://dx.doi.org/10.1016/0584-8539(92)80150-u"
 
 ---
