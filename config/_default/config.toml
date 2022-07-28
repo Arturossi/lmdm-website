@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://lmdm.biof.ufrj.br/"
+baseURL = "http://lmdm.biof.ufrj.br/newsite/"
 title = "Laboratório de Modelagem e Dinâmica Molecular"
 theme = "bigspring"
 # post pagination

@@ -353,3 +353,177 @@ Serving pages from memory
 Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
 Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
 Press Ctrl+C to stop
+Start building sites … 
+hugo v0.92.2+extended linux/amd64 BuildDate=2022-02-23T16:47:50Z VendorInfo=ubuntu:0.92.2-1
+
+                   | PT | EN  
+-------------------+----+-----
+  Pages            | 32 | 31  
+  Paginator pages  |  0 |  0  
+  Non-page files   |  0 |  0  
+  Static files     | 33 | 33  
+  Processed images |  0 |  0  
+  Aliases          |  3 |  2  
+  Sitemaps         |  2 |  1  
+  Cleaned          |  0 |  0  
+
+Built in 127 ms
+Watching for changes in /var/www/lmdm-website/{archetypes,content,layouts,static,themes}
+Watching for config changes in /var/www/lmdm-website/config.toml, /var/www/lmdm-website/config/_default, /var/www/lmdm-website/themes/bigspring/config.toml
+Environment: "development"
+Serving pages from memory
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
+Press Ctrl+C to stop
+
+Change of config file detected, rebuilding site.
+2022-07-28 14:34:27.077 -0300
+Rebuilt in 119 ms
+
+Change of config file detected, rebuilding site.
+2022-07-28 14:38:31.577 -0300
+Rebuilt in 123 ms
+
+Change of config file detected, rebuilding site.
+2022-07-28 14:38:38.578 -0300
+Rebuilt in 89 ms
+
+Change of config file detected, rebuilding site.
+2022-07-28 14:38:47.078 -0300
+Rebuilt in 133 ms
+
+Change of config file detected, rebuilding site.
+2022-07-28 14:38:59.078 -0300
+Rebuilt in 146 ms
+
+Change of config file detected, rebuilding site.
+2022-07-28 14:39:27.078 -0300
+Rebuilt in 112 ms
+
+Change of config file detected, rebuilding site.
+2022-07-28 14:55:52.577 -0300
+Rebuilt in 128 ms
+
+Change of config file detected, rebuilding site.
+2022-07-28 14:55:57.078 -0300
+Rebuilt in 104 ms
+
+Change of config file detected, rebuilding site.
+2022-07-28 14:56:00.078 -0300
+Rebuilt in 146 ms
+
+Change of config file detected, rebuilding site.
+2022-07-28 14:56:10.578 -0300
+Rebuilt in 114 ms
+
+Change of config file detected, rebuilding site.
+2022-07-28 14:56:53.577 -0300
+Rebuilt in 114 ms
+
+Change of config file detected, rebuilding site.
+2022-07-28 14:56:56.077 -0300
+Rebuilt in 160 ms
+
+Change of config file detected, rebuilding site.
+2022-07-28 14:56:58.238 -0300
+Rebuilt in 121 ms
+
+Change of config file detected, rebuilding site.
+2022-07-28 14:57:02.078 -0300
+Rebuilt in 120 ms
+
+Change of config file detected, rebuilding site.
+2022-07-28 15:00:07.578 -0300
+Rebuilt in 146 ms
+
+Change of config file detected, rebuilding site.
+2022-07-28 15:00:29.578 -0300
+Rebuilt in 137 ms
+Start building sites … 
+hugo v0.92.2+extended linux/amd64 BuildDate=2022-02-23T16:47:50Z VendorInfo=ubuntu:0.92.2-1
+
+                   | PT | EN  
+-------------------+----+-----
+  Pages            | 32 | 31  
+  Paginator pages  |  0 |  0  
+  Non-page files   |  0 |  0  
+  Static files     | 33 | 33  
+  Processed images |  0 |  0  
+  Aliases          |  3 |  2  
+  Sitemaps         |  2 |  1  
+  Cleaned          |  0 |  0  
+
+Built in 130 ms
+Watching for changes in /var/www/lmdm-website/{archetypes,content,layouts,static,themes}
+Watching for config changes in /var/www/lmdm-website/config.toml, /var/www/lmdm-website/config/_default, /var/www/lmdm-website/themes/bigspring/config.toml
+Environment: "development"
+Serving pages from memory
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://lmdm.biof.ufrj.br/newsite/ (bind address 192.168.101.123)
+Press Ctrl+C to stop
+
+Change of config file detected, rebuilding site.
+2022-07-28 15:38:43.077 -0300
+Rebuilt in 139 ms
+
+Change of config file detected, rebuilding site.
+2022-07-28 15:38:43.248 -0300
+Rebuilt in 118 ms
+
+Change of config file detected, rebuilding site.
+2022-07-28 15:39:47.249 -0300
+Rebuilt in 101 ms
+
+Change of config file detected, rebuilding site.
+2022-07-28 15:39:47.577 -0300
+Rebuilt in 117 ms
+
+Change of config file detected, rebuilding site.
+2022-07-28 15:39:50.078 -0300
+Rebuilt in 142 ms
+
+Change of config file detected, rebuilding site.
+2022-07-28 15:39:50.249 -0300
+Rebuilt in 161 ms
+
+Change detected, rebuilding site.
+2022-07-28 15:43:07.577 -0300
+Template changed "/var/www/lmdm-website/layouts/team/team.html": WRITE
+Total in 71 ms
+
+Change detected, rebuilding site.
+2022-07-28 15:43:07.749 -0300
+Template changed "/var/www/lmdm-website/layouts/team/team.html": WRITE
+ERROR 2022/07/28 15:43:07 Rebuild failed:
+
+ERROR 2022/07/28 15:43:07 "/var/www/lmdm-website/layouts/team/team.html:42:1": parse failed: template: team/team.html:42: unexpected "<" in command
+Total in 52 ms
+
+Change detected, rebuilding site.
+2022-07-28 15:48:46.749 -0300
+Template changed "/var/www/lmdm-website/layouts/research/research.html": WRITE
+ERROR 2022/07/28 15:48:46 "/var/www/lmdm-website/layouts/team/team.html:42:1": parse failed: template: team/team.html:42: unexpected "<" in command
+ERROR 2022/07/28 15:48:46 Rebuild failed:
+
+ERROR 2022/07/28 15:48:46 "/var/www/lmdm-website/layouts/research/research.html:50:1": parse failed: template: research/research.html:50: unexpected "<" in command
+Total in 54 ms
+
+Change detected, rebuilding site.
+2022-07-28 15:48:47.077 -0300
+Template changed "/var/www/lmdm-website/layouts/research/research.html": WRITE
+Total in 58 ms
+
+Change detected, rebuilding site.
+2022-07-28 15:49:26.077 -0300
+Template changed "/var/www/lmdm-website/layouts/software/software.html": WRITE
+Total in 58 ms
+
+Change detected, rebuilding site.
+2022-07-28 15:49:26.249 -0300
+Template changed "/var/www/lmdm-website/layouts/software/software.html": WRITE
+ERROR 2022/07/28 15:49:26 "/var/www/lmdm-website/layouts/software/software.html:27:1": parse failed: template: software/software.html:27: unexpected "<" in command
+ERROR 2022/07/28 15:49:26 "/var/www/lmdm-website/layouts/team/team.html:42:1": parse failed: template: team/team.html:42: unexpected "<" in command
+ERROR 2022/07/28 15:49:26 Rebuild failed:
+
+ERROR 2022/07/28 15:49:26 "/var/www/lmdm-website/layouts/research/research.html:50:1": parse failed: template: research/research.html:50: unexpected "<" in command
+Total in 58 ms

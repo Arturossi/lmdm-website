@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Contact Us on Laboratory for Molecular Dynamics and Modelling</title>
-    <link>http://examplesite.org/contact/</link>
-    <description>Recent content in Contact Us on Laboratory for Molecular Dynamics and Modelling</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>pt-br</language>
-    <copyright>Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)</copyright>
-    
-	<atom:link href="http://examplesite.org/contact/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Entre em contato conosco on Laboratório de Modelagem e Dinâmica Molecular</title><link>http://lmdm.biof.ufrj.br/newsite/contact/</link><description>Recent content in Entre em contato conosco on Laboratório de Modelagem e Dinâmica Molecular</description><generator>Hugo -- gohugo.io</generator><language>pt-br</language><atom:link href="http://lmdm.biof.ufrj.br/newsite/contact/index.xml" rel="self" type="application/rss+xml"/></channel></rss>

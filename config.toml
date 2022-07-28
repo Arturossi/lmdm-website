@@ -1,8 +1,9 @@
-baseURL = "http://lmdm.biof.ufrj.br/"
+baseURL = "http://lmdm.biof.ufrj.br/newsite/"
 languageCode = "pt-br"
 title = "LMDM"
 theme = "bigspring"
 DefaultContentLanguage = "pt"
+canonifyurls=true
 
 [params]
     author = "Artur Duque Rossi"
