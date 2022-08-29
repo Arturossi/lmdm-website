@@ -26,7 +26,7 @@ project_right_then_left:
       image : "images/banner-art.svg"
       project_id : "md"
       project_link : "/projects/md"
-      project_enable : false
+      project_enable : true 
       project_description :
       # Description
       - description : "Somos um time de cientistas entusiasmados que buscam melhor entender fenômenos moleculares"

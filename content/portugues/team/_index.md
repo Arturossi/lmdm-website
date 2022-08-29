@@ -148,6 +148,20 @@ allroles:
           description_enable: true
       # Person item loop
       - person_title: "MSc."
+        person_name: "Reinaldo Souza de Oliveira Júnior"
+        person_lattes: "7737691059542144"
+        person_orcid: "0000-0003-3691-4317"
+        person_research_gate: "Reinaldo-Oliveira-Jr"
+        person_github: ""
+        person_ig: ""
+        person_enable: true
+        person_photo: "images/team/Reinaldo_Souza_de_Oliveira_Júnior.jpg"
+        person_description:
+        # Person description item loop
+        - description: "Tem experiência na área de Biofísica Molecular, com ênfase em Biologia Computacional, atuando principalmente nos temas de Dinâmica Molecular (DM) em Altas Pressões Hidrostáticas e Cálculos de Energia Livre. É especializado em técnicas moleculares de Biologia Molecular (PCR, Tecnologia do DNA Recombinante). Seu principal foco está na aplicação e no desenvolvimento de metodologias para o estudo do desenovelamento protéico (protein unfolding) via simulação (por DM) de sistemas em alta pressão, em solvente explícito, utilizando os campos de forças do pacote GROMACS. A aplicação de técnicas de amostragem melhorada (Metadynamics, Bennett's Acepptance Ratio - BAR, Umbrella Sampling e etc...) para o calculo de energia de livre de proteínas amilóides. Também tem interesse no efeito bioprotetor de determinados carboidratos, em particular do dissacarídeo trealose, como também na ação de outros osmólitos no enovelamento e desenovelamento protéico."
+          description_enable: true
+      # Person item loop
+      - person_title: "MSc."
         person_name: "Thamires Rocco"
         person_lattes: ""
         person_orcid: ""
@@ -289,17 +303,17 @@ allroles:
           description_enable: true
       # Person item loop
       - person_title: ""
-        person_name: "Guilherme Ian"
-        person_lattes: ""
+        person_name: "Guilherme Ian Spelta"
+        person_lattes: "0583451850368211"
         person_orcid: ""
         person_research_gate: ""
         person_github: ""
         person_ig: ""
         person_enable: true
-        person_photo: "images/no-person.svg"
+        person_photo: "images/team/Guilherme_Ian_Spelta.jpg"
         person_description:
         # Person description item loop
-        - description: ""
+        - description: "Aluno de graduação do curso de Farmácia na Universidade Federal do Rio de Janeiro (2019-presente). Atualmente compõe o quadro do Laboratório de Modelagem e Dinâmica Molecular (LMDM) no Instituto de Biofísica Carlos Chagas Filho (IBCCF) como aluno de iniciação científica, com foco no estudo de desenho de fármacos assistido por técnicas computacionais."
           description_enable: true
       # Person item loop
       - person_title: ""

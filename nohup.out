@@ -527,3 +527,270 @@ ERROR 2022/07/28 15:49:26 Rebuild failed:
 
 ERROR 2022/07/28 15:49:26 "/var/www/lmdm-website/layouts/research/research.html:50:1": parse failed: template: research/research.html:50: unexpected "<" in command
 Total in 58 ms
+Start building sites … 
+hugo v0.92.2+extended linux/amd64 BuildDate=2022-02-23T16:47:50Z VendorInfo=ubuntu:0.92.2-1
+
+                   | PT | EN  
+-------------------+----+-----
+  Pages            | 32 | 31  
+  Paginator pages  |  0 |  0  
+  Non-page files   |  0 |  0  
+  Static files     | 33 | 33  
+  Processed images |  0 |  0  
+  Aliases          |  3 |  2  
+  Sitemaps         |  2 |  1  
+  Cleaned          |  0 |  0  
+
+Built in 103 ms
+Watching for changes in /var/www/lmdm-website/{archetypes,content,layouts,static,themes}
+Watching for config changes in /var/www/lmdm-website/config.toml, /var/www/lmdm-website/config/_default, /var/www/lmdm-website/themes/bigspring/config.toml
+Environment: "development"
+Serving pages from memory
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://lmdm.biof.ufrj.br/newsite/ (bind address 192.168.101.123)
+Press Ctrl+C to stop
+Start building sites … 
+hugo v0.92.2+extended linux/amd64 BuildDate=2022-02-23T16:47:50Z VendorInfo=ubuntu:0.92.2-1
+
+                   | PT | EN  
+-------------------+----+-----
+  Pages            | 32 | 31  
+  Paginator pages  |  0 |  0  
+  Non-page files   |  0 |  0  
+  Static files     | 33 | 33  
+  Processed images |  0 |  0  
+  Aliases          |  3 |  2  
+  Sitemaps         |  2 |  1  
+  Cleaned          |  0 |  0  
+
+Built in 152 ms
+Watching for changes in /var/www/lmdm-website/{archetypes,content,layouts,static,themes}
+Watching for config changes in /var/www/lmdm-website/config.toml, /var/www/lmdm-website/config/_default, /var/www/lmdm-website/themes/bigspring/config.toml
+Environment: "development"
+Serving pages from memory
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://lmdm.biof.ufrj.br/newsite/ (bind address 192.168.101.123)
+Press Ctrl+C to stop
+
+Change detected, rebuilding site.
+2022-08-29 11:14:42.101 -0300
+Source changed "/var/www/lmdm-website/content/portugues/team/_index.md": WRITE
+Total in 21 ms
+
+Change detected, rebuilding site.
+2022-08-29 11:16:58.601 -0300
+Source changed "/var/www/lmdm-website/content/portugues/team/_index.md": WRITE
+Total in 15 ms
+
+Change detected, rebuilding site.
+2022-08-29 11:27:17.100 -0300
+Source changed "/var/www/lmdm-website/content/portugues/team/_index.md": WRITE
+Total in 34 ms
+
+Change detected, rebuilding site.
+2022-08-29 11:28:51.601 -0300
+Source changed "/var/www/lmdm-website/content/english/team/_index.md": WRITE
+ERROR 2022/08/29 11:28:51 Rebuild failed:
+
+ERROR 2022/08/29 11:28:51 "/var/www/lmdm-website/content/english/team/_index.md:151:1": failed to unmarshal YAML: yaml: line 150: did not find expected key
+Total in 6 ms
+
+Change detected, rebuilding site.
+2022-08-29 11:29:54.101 -0300
+Source changed "/var/www/lmdm-website/content/english/team/_index.md": WRITE
+ERROR 2022/08/29 11:29:54 Rebuild failed:
+
+ERROR 2022/08/29 11:29:54 "/var/www/lmdm-website/content/english/team/_index.md:151:1": failed to unmarshal YAML: yaml: line 150: did not find expected key
+Total in 1 ms
+
+Change detected, rebuilding site.
+2022-08-29 11:35:01.100 -0300
+Source changed "/var/www/lmdm-website/content/portugues/projects/cadd/_index.md": WRITE
+ERROR 2022/08/29 11:35:01 Rebuild failed:
+
+ERROR 2022/08/29 11:35:01 "/var/www/lmdm-website/content/english/team/_index.md:151:1": failed to unmarshal YAML: yaml: line 150: did not find expected key
+Total in 1 ms
+
+Change detected, rebuilding site.
+2022-08-29 11:39:29.101 -0300
+Source changed "/var/www/lmdm-website/content/portugues/projects/cadd/_index.md": WRITE
+ERROR 2022/08/29 11:39:29 Rebuild failed:
+
+ERROR 2022/08/29 11:39:29 "/var/www/lmdm-website/content/english/team/_index.md:151:1": failed to unmarshal YAML: yaml: line 150: did not find expected key
+Total in 5 ms
+
+Change detected, rebuilding site.
+2022-08-29 11:40:21.101 -0300
+Source changed "/var/www/lmdm-website/content/portugues/projects/cadd/_index.md": WRITE
+ERROR 2022/08/29 11:40:21 Rebuild failed:
+
+ERROR 2022/08/29 11:40:21 "/var/www/lmdm-website/content/english/team/_index.md:151:1": failed to unmarshal YAML: yaml: line 150: did not find expected key
+Total in 5 ms
+
+Change detected, rebuilding site.
+2022-08-29 11:40:38.101 -0300
+Source changed "/var/www/lmdm-website/content/portugues/projects/cadd/_index.md": WRITE
+ERROR 2022/08/29 11:40:38 Rebuild failed:
+
+ERROR 2022/08/29 11:40:38 "/var/www/lmdm-website/content/english/team/_index.md:151:1": failed to unmarshal YAML: yaml: line 150: did not find expected key
+Total in 5 ms
+
+Change detected, rebuilding site.
+2022-08-29 11:41:41.101 -0300
+Source changed "/var/www/lmdm-website/content/english/projects/cadd/_index.md": WRITE
+ERROR 2022/08/29 11:41:41 Rebuild failed:
+
+ERROR 2022/08/29 11:41:41 "/var/www/lmdm-website/content/english/team/_index.md:151:1": failed to unmarshal YAML: yaml: line 150: did not find expected key
+Total in 5 ms
+
+Change detected, rebuilding site.
+2022-08-29 11:43:48.100 -0300
+Source changed "/var/www/lmdm-website/content/portugues/projects/cadd/_index.md": WRITE
+ERROR 2022/08/29 11:43:48 Rebuild failed:
+
+ERROR 2022/08/29 11:43:48 "/var/www/lmdm-website/content/english/team/_index.md:151:1": failed to unmarshal YAML: yaml: line 150: did not find expected key
+Total in 5 ms
+
+Change detected, rebuilding site.
+2022-08-29 11:44:02.101 -0300
+Source changed "/var/www/lmdm-website/content/english/projects/cadd/_index.md": WRITE
+ERROR 2022/08/29 11:44:02 Rebuild failed:
+
+ERROR 2022/08/29 11:44:02 "/var/www/lmdm-website/content/english/team/_index.md:151:1": failed to unmarshal YAML: yaml: line 150: did not find expected key
+Total in 4 ms
+
+Change detected, rebuilding site.
+2022-08-29 11:45:46.101 -0300
+Source changed "/var/www/lmdm-website/content/english/projects/md/_index.md": WRITE
+ERROR 2022/08/29 11:45:46 Rebuild failed:
+
+ERROR 2022/08/29 11:45:46 "/var/www/lmdm-website/content/english/projects/md/_index.md:3:1": failed to unmarshal YAML: yaml: line 2: did not find expected key
+Total in 1 ms
+
+Change detected, rebuilding site.
+2022-08-29 11:48:08.601 -0300
+Source changed "/var/www/lmdm-website/content/english/projects/md/_index.md": WRITE
+ERROR 2022/08/29 11:48:08 Rebuild failed:
+
+ERROR 2022/08/29 11:48:08 "/var/www/lmdm-website/content/english/team/_index.md:151:1": failed to unmarshal YAML: yaml: line 150: did not find expected key
+Total in 3 ms
+
+Change detected, rebuilding site.
+2022-08-29 11:49:16.601 -0300
+Source changed "/var/www/lmdm-website/content/english/team/_index.md": WRITE
+ERROR 2022/08/29 11:49:16 Rebuild failed:
+
+ERROR 2022/08/29 11:49:16 "/var/www/lmdm-website/content/english/team/_index.md:151:1": failed to unmarshal YAML: yaml: line 150: did not find expected key
+Total in 6 ms
+
+Change detected, rebuilding site.
+2022-08-29 12:00:05.101 -0300
+Source changed "/var/www/lmdm-website/content/english/team/_index.md": WRITE
+ERROR 2022/08/29 12:00:05 Rebuild failed:
+
+ERROR 2022/08/29 12:00:05 "/var/www/lmdm-website/content/english/team/_index.md:151:1": failed to unmarshal YAML: yaml: line 150: did not find expected key
+Total in 6 ms
+
+Change detected, rebuilding site.
+2022-08-29 12:00:23.100 -0300
+Source changed "/var/www/lmdm-website/content/english/team/_index.md": WRITE
+Total in 21 ms
+Start building sites … 
+hugo v0.92.2+extended linux/amd64 BuildDate=2022-02-23T16:47:50Z VendorInfo=ubuntu:0.92.2-1
+
+                   | PT | EN  
+-------------------+----+-----
+  Pages            | 32 | 31  
+  Paginator pages  |  0 |  0  
+  Non-page files   |  0 |  0  
+  Static files     | 33 | 33  
+  Processed images |  0 |  0  
+  Aliases          |  3 |  2  
+  Sitemaps         |  2 |  1  
+  Cleaned          |  0 |  0  
+
+Built in 93 ms
+Watching for changes in /var/www/lmdm-website/{archetypes,content,layouts,static,themes}
+Watching for config changes in /var/www/lmdm-website/config.toml, /var/www/lmdm-website/config/_default, /var/www/lmdm-website/themes/bigspring/config.toml
+Environment: "development"
+Serving pages from memory
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://lmdm.biof.ufrj.br/newsite/ (bind address 192.168.101.123)
+Press Ctrl+C to stop
+
+Change of Static files detected, rebuilding site.
+2022-08-29 12:04:35.259 -0300
+Syncing images/software/Porcupine.jpg to /
+
+Change of Static files detected, rebuilding site.
+2022-08-29 12:04:36.760 -0300
+Syncing images/software/EletroGrid.jpg to /
+
+Change of Static files detected, rebuilding site.
+2022-08-29 12:04:37.259 -0300
+Syncing images/software/ProtCHOIR.jpg to /
+
+Change of Static files detected, rebuilding site.
+2022-08-29 12:04:40.759 -0300
+Syncing images/software/GSAFold.jpg to /
+
+Change of Static files detected, rebuilding site.
+2022-08-29 12:04:41.259 -0300
+Syncing images/software/Rsurf2Grace.jpg to /
+
+Change of Static files detected, rebuilding site.
+2022-08-29 12:04:41.760 -0300
+Syncing images/software/SurfinMD.jpg to /
+
+Change of Static files detected, rebuilding site.
+2022-08-29 12:04:44.259 -0300
+Syncing images/team/Anchieta_Oliveira.jpg to /
+Syncing images/team/Reinaldo_Souza_de_Oliveira_Júnior.jpg to /
+
+Change of Static files detected, rebuilding site.
+2022-08-29 12:04:45.260 -0300
+Syncing images/team/Lilian_de_Oliveira.jpg to /
+
+Change of Static files detected, rebuilding site.
+2022-08-29 12:04:46.259 -0300
+Syncing images/team/Camila_Chaves.jpg to /
+
+Change of Static files detected, rebuilding site.
+2022-08-29 12:04:47.260 -0300
+Syncing images/team/Artur_Rossi.jpg to /
+
+Change of Static files detected, rebuilding site.
+2022-08-29 12:04:47.760 -0300
+Syncing images/team/Beatriz_Moura.jpg to /
+
+Change of Static files detected, rebuilding site.
+2022-08-29 12:04:49.759 -0300
+Syncing images/team/Pedro_Torres.jpg to /
+
+Change of Static files detected, rebuilding site.
+2022-08-29 12:04:50.759 -0300
+Syncing images/team/Pedro_Pascutti.jpg to /
+
+Change of Static files detected, rebuilding site.
+2022-08-29 12:04:51.260 -0300
+Syncing images/team/Ingrid_Martins.jpg to /
+Syncing images/team/Guilherme_Ian_Spelta.jpg to /
+adding created directory to watchlist /var/www/lmdm-website/static/images/cadd
+
+Change of Static files detected, rebuilding site.
+2022-08-29 12:06:05.760 -0300
+Syncing images/cadd to /
+
+Change of Static files detected, rebuilding site.
+2022-08-29 12:06:08.260 -0300
+File no longer exists in static dir, removing /images/cadd/card-I.png
+File no longer exists in static dir, removing /images/cadd/inib_I.jpg
+File no longer exists in static dir, removing /images/cadd
+
+Change of Static files detected, rebuilding site.
+2022-08-29 12:06:11.259 -0300
+Syncing images/projects/cadd/inib_I.jpg to /
+
+Change of Static files detected, rebuilding site.
+2022-08-29 12:06:12.759 -0300
+Syncing images/projects/cadd/card-I.png to /

@@ -11,7 +11,7 @@ individual_left_then_right:
     individual_enable : true
     individual_description :
     # Description
-    - description : "Cardiovascular diseases are among the most deadly worldwide, wherein ischemic diseases are the most lethal. Considering the regenerative potetial stimulated by the thyroid hormone over the heart, we use computational biology techniques to select and optimize agonist molecules of the thyroid receptor alpha, through molecular dynamics, aiming to develop potential drugs for the treatment of cardiac injuries."
+    - description : "As doenças cardiovasculares são as que mais matam no mundo, sendo as doenças isquêmicas as mais letais. Considerando o potencial regenerativo estimulado pelo Hormônio Tireoidiano no coração, utilizamos técnicas de biologia computacional para selecionar e otimizar moléculas agonistas do receptor tireoidiano alfa, por análises de Dinâmica Molecular, visando o desenvolvimento de potenciais fármacos para o tratamento de lesões cardíacas."
       description_enable : true
     # Team title
     team_title_text : "Membros deste projeto"
@@ -23,6 +23,29 @@ individual_left_then_right:
     - individual_team_photo : "images/team/Pedro_Pascutti.jpg"
       individual_team_member : "Pedro Geraldo Pascutti"
       individual_team_lattes : "6142558410927273"
+
+  - title : "Desenho racional de inibidores ortostéricos e alostéricos de tripanotiona redutase assistido por técnicas computacionais."
+    image : "images/projects/cadd/inib-I.jpg"
+    individual_id : "inib-I"
+    individual_enable : true
+    individual_description :
+    # Description
+    - description : "O projeto visa a caracterização dos sítios ortostérico e alostéricos da enzima tripanotiona redutase por meio de emprego de técnica de dinâmica molecular em acordo com estudo de docagem e otimização de compostos líderes. Esse homodímero participa do controle de dano oxidativo exclusivamente em parasitos Tripanossomatídeos, configurando alvo de interesse no combate a protozoonoses tropicais endêmicas."
+      description_enable : true
+    # Team title
+    team_title_text : "Membros deste projeto"
+    # Members
+    individual_team :
+    - individual_team_photo : "images/team/Guilherme_Ian_Spelta.jpg"
+      individual_team_member : "Guilherme Ian Spelta"
+      individual_team_lattes : "0583451850368211"
+    - individual_team_photo : "images/team/Anchieta_Oliveira.jpg"
+      individual_team_member : "Ingrid Bernardes Santana Martins"
+      individual_team_lattes : "5116710887551537"
+    - individual_team_photo : "images/team/Pedro_Pascutti.jpg"
+      individual_team_member : "Pedro Geraldo Pascutti"
+      individual_team_lattes : "6142558410927273"
+
   
   - title : "Inteligência Artificial em Triagem Virtual para criação de consenso"
     image : ""
@@ -77,7 +100,7 @@ individual_left_then_right:
     individual_enable : true
     individual_description :
     # Description
-    - description : "Comming soon."
+    - description : "..."
       description_enable : true
     # Team title
     team_title_text : "Membros deste projeto"

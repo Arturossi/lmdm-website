@@ -151,6 +151,20 @@ allroles:
           description_enable: true
       # Person item loop
       - person_title: "MSc."
+        person_name: "Reinaldo Souza de Oliveira Júnior"
+        person_lattes: "7737691059542144"
+        person_orcid: "0000-0003-3691-4317"
+        person_research_gate: "Reinaldo-Oliveira-Jr"
+        person_github: ""
+        person_ig: ""
+        person_enable: true
+        person_photo: "images/team/Reinaldo_Souza_de_Oliveira_Júnior.jpg"
+        person_description:
+        # Person description item loop
+        - description: "Has experience in Molecular Biophysics, with emphasis on Computational Biology, working mainly on Molecular Dynamics (DM) in High Hydrostatic Pressures and Free Energy Calculations. He specializes in molecular techniques of Molecular Biology (PCR, Recombinant DNA Technology). Its main focus is on the application and development of methodologies for the study of protein unfolding via simulation (by DM) of systems at high pressure, in explicit solvent, using the force fields of the GROMACS package. The application of improved sampling techniques (Metadynamics, Bennett's Aceptance Ratio - BAR, Umbrella Sampling and etc...) for the calculation of free energy of amyloid proteins. He is also interested in the bioprotective effect of certain carbohydrates, in particular the disaccharide trehalose, as well as in the action of other osmolytes on protein folding and unfolding."
+          description_enable: true
+      # Person item loop
+      - person_title: "MSc."
         person_name: "Thamires Rocco"
         person_lattes: ""
         person_orcid: ""
@@ -307,17 +321,17 @@ allroles:
           description_enable: true
       # Person item loop
       - person_title: ""
-        person_name: "Guilherme Ian"
-        person_lattes: ""
+        person_name: "Guilherme Ian Spelta"
+        person_lattes: "0583451850368211"
         person_orcid: ""
         person_research_gate: ""
         person_github: ""
         person_ig: ""
         person_enable: true
-        person_photo: "images/no-person.svg"
+        person_photo: "images/team/Guilherme_Ian_Spelta.jpg"
         person_description:
         # Person description item loop
-        - description: ""
+        - description: "Undergraduate in Pharmacy at Federal University of Rio de Janeiro (UFRJ) since 2019. Currently integrates the Molecular Dynamics and Modelling Laboratory (LMDM) in Carlos Chagas Filho Biophysics Institute (IBCCF) as undergraduate research student. Works with drug design assisted by computational tools."
           description_enable: true
       # Person item loop
       - person_title: ""

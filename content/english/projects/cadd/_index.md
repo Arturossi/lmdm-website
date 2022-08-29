@@ -23,6 +23,28 @@ individual_left_then_right:
     - individual_team_photo : "images/team/Pedro_Pascutti.jpg"
       individual_team_member : "Pedro Geraldo Pascutti"
       individual_team_lattes : "6142558410927273"
+
+  - title : "Desenho racional de inibidores ortostéricos e alostéricos de tripanotiona redutase assistido por técnicas computacionais."
+    image : "images/projects/cadd/inib-I.jpg"
+    individual_id : "inib-I"
+    individual_enable : true
+    individual_description :
+    # Description
+    - description : "The project aims to characterize the orthosteric and allosteric sites of trypanothione reductase enzyme by implementing molecular dynamics technique alongside docking studies of promissing compounds. This oxidoreductase has central role in protecting exclusively trypanossomatid parasites from oxidative damage, revealing itself as an target of interest in the combat of tropical endemic protozoonosis."
+      description_enable : true
+    # Team title
+    team_title_text : "Membros deste projeto"
+    # Members
+    individual_team :
+    - individual_team_photo : "images/team/Guilherme_Ian_Spelta.jpg"
+      individual_team_member : "Guilherme Ian Spelta"
+      individual_team_lattes : "0583451850368211"
+    - individual_team_photo : "images/team/Anchieta_Oliveira.jpg"
+      individual_team_member : "Ingrid Bernardes Santana Martins"
+      individual_team_lattes : "5116710887551537"
+    - individual_team_photo : "images/team/Pedro_Pascutti.jpg"
+      individual_team_member : "Pedro Geraldo Pascutti"
+      individual_team_lattes : "6142558410927273"
   
   - title : "Artificial Intelligence applied to virtual screening to create a consensus score"
     image : ""
@@ -77,7 +99,7 @@ individual_left_then_right:
     individual_enable : true
     individual_description :
     # Description
-    - description : "Comming soon"
+    - description : "..."
       description_enable : true
     # Team title
     team_title_text : "Project members"
